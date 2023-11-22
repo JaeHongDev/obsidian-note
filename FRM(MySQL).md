@@ -1,0 +1,3 @@
+FRM files are the form files used as MySQL Database format files. When a new table is created in MySQL, then the FRM file comes into existence. These form files are used for defining the fields in the table. It is also used to represent the formatting information about the structure of the table.
+
+https://www.arysontechnologies.com/blog/what-is-frm-how-to-open-frm-file-mysql/#:~:text=FRM%20files%20are%20the%20form,the%20structure%20of%20the%20table.

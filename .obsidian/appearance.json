@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "my_style"
+  ],
+  "cssTheme": "80s Neon",
+  "nativeMenus": true,
+  "translucency": false,
+  "baseFontSizeAction": true
+}
