@@ -8,27 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc66db4c96e15a6f",
+            "id": "7f799a65e88d5be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE 프로젝트/KAKAO api + security.md",
+                "file": "RealMysql8.0/Chapter4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f799a65e88d5be6",
+            "id": "d52271b7463d828f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL서버.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE 프로젝트/KAKAO api + security.md",
+                "file": "RealMysql8.0/Chapter4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE 프로젝트/KAKAO api + security.md",
+                "file": "RealMysql8.0/Chapter4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE 프로젝트/KAKAO api + security.md"
+                "file": "RealMysql8.0/Chapter4.md"
               }
             }
           },
@@ -185,13 +181,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc66db4c96e15a6f",
+  "active": "7f799a65e88d5be6",
   "lastOpenFiles": [
-    "노트/모던 자바 인 액션.md",
     "RealMysql8.0/Chapter4.md",
-    "MySQL서버.md",
-    "RealMysql8.0/Chapter2.md",
+    "Pasted image 20231124193437.png",
+    "Pasted image 20231124193337.png",
     "RealMysql8.0/Chapter3.md",
+    "MySQL서버.md",
+    "SE 프로젝트/KAKAO api + security.md",
+    "노트/모던 자바 인 액션.md",
+    "RealMysql8.0/Chapter2.md",
     "엔진이 뭐죠?.md",
     "Pasted image 20231122213820.png",
     "RealMysql8.0/RealMySQL 단어 정리.md",
@@ -217,8 +216,6 @@
     "DDD/용어정리/도메인.md",
     "DDD/용어정리/도메인 모델.md",
     "DDD/용어정리/모델.md",
-    "쏙쏙 들어오는 함수형 코딩/쏙쏙 들어오는 함수형 - 1장.md",
-    "UnitTesting/Chapter1.md",
     "쏙쏙 들어오는 함수형 코딩",
     "DDD/용어정리",
     "DDD/1주차",
@@ -236,8 +233,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230925013124.png",
-    "Pasted image 20230925012822.png",
-    "Pasted image 20230923214931.png",
-    "Pasted image 20230918153934.png"
+    "Pasted image 20230925012822.png"
   ]
 }
