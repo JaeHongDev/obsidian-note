@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/Chapter4.md",
+                "file": "MySQL서버.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/Chapter4.md",
+                "file": "MySQL서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/Chapter4.md",
+                "file": "MySQL서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/Chapter4.md"
+                "file": "MySQL서버.md"
               }
             }
           },
@@ -183,39 +183,42 @@
   },
   "active": "7f799a65e88d5be6",
   "lastOpenFiles": [
-    "RealMysql8.0/Chapter4.md",
-    "Pasted image 20231124193437.png",
-    "Pasted image 20231124193337.png",
-    "RealMysql8.0/Chapter3.md",
+    "MySQL 명령어 꿀팁.md",
     "MySQL서버.md",
-    "SE 프로젝트/KAKAO api + security.md",
-    "노트/모던 자바 인 액션.md",
+    "백그라운드 스레드.md",
+    "포그라운드 스레드.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
+    "핸들러 API.md",
+    "용어정리/스토리지 엔진.md",
+    "RealMysql8.0/RealMySQL 단어 정리.md",
+    "RealMysql8.0/Chapter3.md",
     "RealMysql8.0/Chapter2.md",
     "엔진이 뭐죠?.md",
+    "스토리지엔진.md",
+    "키 캐시 (MyISAM).md",
+    "InnoDB.md",
+    "MySQL엔진.md",
+    "Pasted image 20231125133455.png",
+    "Pasted image 20231125012903.png",
+    "Pasted image 20231124193437.png",
+    "Pasted image 20231124193337.png",
+    "SE 프로젝트/KAKAO api + security.md",
+    "노트/모던 자바 인 액션.md",
     "Pasted image 20231122213820.png",
-    "RealMysql8.0/RealMySQL 단어 정리.md",
     "Unix domain socket.md",
     "Yum(Yellodog Update Modeified).md",
     "my.cnf.md",
-    "스토리지엔진.md",
     "m.md",
     "Untitled.md",
     "Pasted image 20231010170459.png",
     "Pasted image 20230629104036.png",
     "Pasted image 20230713142418.png",
-    "용어정리/스토리지 엔진.md",
     "용어정리",
     "DDD/의사소통과 언어 사용.md",
     "DDD/용어정리/보편언어(Ubiquitous Language).md",
     "DDD/용어정리/모델 기반 의사소통.md",
     "DDD/도메인 주도 설계 01 - 지식 탐구.md",
-    "Untitled 4.md",
-    "DDD/0장.md",
-    "프로젝트/GPT.md",
     "프로젝트",
-    "DDD/용어정리/도메인.md",
-    "DDD/용어정리/도메인 모델.md",
-    "DDD/용어정리/모델.md",
     "쏙쏙 들어오는 함수형 코딩",
     "DDD/용어정리",
     "DDD/1주차",
@@ -231,8 +234,6 @@
     "Pasted image 20230919000247.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Pasted image 20230925013124.png",
-    "Pasted image 20230925012822.png"
+    "Untitled.canvas"
   ]
 }
