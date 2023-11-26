@@ -8,26 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f799a65e88d5be6",
+            "id": "d52271b7463d828f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL서버.md",
+                "file": "InnoDB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d52271b7463d828f",
+            "id": "ad68e166a7a75421",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL서버.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL서버.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL서버.md"
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md"
               }
             }
           },
@@ -168,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,43 +186,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f799a65e88d5be6",
+  "active": "ad68e166a7a75421",
   "lastOpenFiles": [
-    "MySQL 명령어 꿀팁.md",
-    "MySQL서버.md",
-    "백그라운드 스레드.md",
-    "포그라운드 스레드.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
-    "핸들러 API.md",
-    "용어정리/스토리지 엔진.md",
-    "RealMysql8.0/RealMySQL 단어 정리.md",
-    "RealMysql8.0/Chapter3.md",
-    "RealMysql8.0/Chapter2.md",
-    "엔진이 뭐죠?.md",
-    "스토리지엔진.md",
-    "키 캐시 (MyISAM).md",
+    "격리 수준.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+    "트랜잭션.md",
+    "InnoDB 버퍼 풀.md",
+    "Pasted image 20231126185828.png",
+    "InnoDB 리두 로그.md",
+    "Pasted image 20231126184600.png",
+    "Pasted image 20231126184552.png",
     "InnoDB.md",
-    "MySQL엔진.md",
-    "Pasted image 20231125133455.png",
-    "Pasted image 20231125012903.png",
-    "Pasted image 20231124193437.png",
-    "Pasted image 20231124193337.png",
-    "SE 프로젝트/KAKAO api + security.md",
-    "노트/모던 자바 인 액션.md",
-    "Pasted image 20231122213820.png",
-    "Unix domain socket.md",
-    "Yum(Yellodog Update Modeified).md",
-    "my.cnf.md",
-    "m.md",
-    "Untitled.md",
-    "Pasted image 20231010170459.png",
-    "Pasted image 20230629104036.png",
-    "Pasted image 20230713142418.png",
+    "자동화된 장애 복구.md",
+    "Pasted image 20231126180342.png",
+    "MVCC(Multi Version Concurrency Control).md",
+    "Pasted image 20231126180132.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
+    "언두 로그.md",
+    "프라이머리 키에 의한 클러스트링.md",
+    "용어정리/스토리지 엔진.md",
+    "트랜잭션 지원 메타데이터.md",
+    "시스템 테이블.md",
+    "FRM(MySQL).md",
+    "스레드 풀(MySQL).md",
+    "Percona Server.md",
+    "쿼리 캐시 (MySQL).md",
+    "복제 (MySQL).md",
+    "MySQL 쿼리 실행 구조.md",
+    "핸들러(Handler).md",
+    "실행 엔진.md",
+    "SQL 옵티마이저.md",
+    "전처리기.md",
+    "MySQL 쿼리 파서.md",
+    "토큰 (MySQL).md",
+    "MySQL 쿼리 실행 구조.png",
+    "MySQL엔진과 스토리지 엔진의 처리 영역.png",
+    "Pasted image 20231126002326.png",
+    "Pasted image 20231126002323.png",
+    "MySQL 스레딩 구조 이미지.png",
     "용어정리",
-    "DDD/의사소통과 언어 사용.md",
-    "DDD/용어정리/보편언어(Ubiquitous Language).md",
-    "DDD/용어정리/모델 기반 의사소통.md",
-    "DDD/도메인 주도 설계 01 - 지식 탐구.md",
     "프로젝트",
     "쏙쏙 들어오는 함수형 코딩",
     "DDD/용어정리",
@@ -230,8 +237,6 @@
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Pasted image 20231007172759.png",
-    "Pasted image 20230919000247.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

@@ -65,7 +65,19 @@ thread_id	name	type	processlist_user	processlist_host
 47	thread/sql/compress_gtid_table	FOREGROUND	NULL	NULL
 310	thread/sql/one_connection	FOREGROUND	root	localhost
 315	thread/sql/one_connection	FOREGROUND	root	localhost
-
 ```
+
+
+### 메모리 할당 및 사용 구조
+
+MySQL에서 사용되는 메모리 공간은 다음과 같이 구분합니다.
+- [[글로벌 메모리 영역]]
+- [[로컬 메모리 영역]]
+
+운영체제의 종류에 따라 다르겠지만 요청된 메모리 공간을 100% 할당해줄 수도 있고, 그 공간만큼 예약해두고 필요할 때 조금씩 할당해주는 경우도 있다. 각 운영체제의 메모리 할당 방식은 상당히 복잡하며, MySQL 서버가 사용하는 정확한 메모리의 양을 측정하는 것 또한 쉽지 않다. 
+그렇기에 <u>그냥 단순하게 MySQL의 시스템 변수로 설정해 둔 만큼 운영체제로부터 메모리를 할당받는다고 생각해도 된다.</u>
+
+
+
 ### 관련 사항
 [[MySQL 명령어 꿀팁]]
