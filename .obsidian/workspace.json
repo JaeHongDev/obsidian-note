@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d52271b7463d828f",
+            "id": "ad68e166a7a75421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InnoDB.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad68e166a7a75421",
+            "id": "26776971cc6a4501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+                "file": "MySQL서버 혹은 MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+                "file": "MySQL서버 혹은 MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+                "file": "MySQL서버 혹은 MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter5.md"
+                "file": "MySQL서버 혹은 MySQL.md"
               }
             }
           },
@@ -186,44 +186,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad68e166a7a75421",
+  "active": "26776971cc6a4501",
   "lastOpenFiles": [
-    "격리 수준.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
+    "MySQL엔진.md",
+    "RealMysql8.0/Chapter3.md",
+    "RealMysql8.0/Chapter2.md",
+    "RealMysql8.0/Chapter1.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
-    "트랜잭션.md",
+    "자동 증가 락.md",
+    "테이블 락.md",
+    "넥스트 키 락(Next Key Lock).md",
+    "갭 락 (GAP LOCK).md",
+    "레코드 락(Record Lock, Record only lock).md",
+    "Pasted image 20231127145834.png",
+    "InnoDB.md",
+    "네임드 락.md",
+    "글로벌 락.md",
+    "Pasted image 20231127021054.png",
     "InnoDB 버퍼 풀.md",
+    "트랜잭션.md",
+    "격리 수준.md",
     "Pasted image 20231126185828.png",
     "InnoDB 리두 로그.md",
     "Pasted image 20231126184600.png",
     "Pasted image 20231126184552.png",
-    "InnoDB.md",
     "자동화된 장애 복구.md",
     "Pasted image 20231126180342.png",
     "MVCC(Multi Version Concurrency Control).md",
     "Pasted image 20231126180132.png",
-    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
     "언두 로그.md",
     "프라이머리 키에 의한 클러스트링.md",
     "용어정리/스토리지 엔진.md",
     "트랜잭션 지원 메타데이터.md",
     "시스템 테이블.md",
     "FRM(MySQL).md",
-    "스레드 풀(MySQL).md",
-    "Percona Server.md",
-    "쿼리 캐시 (MySQL).md",
-    "복제 (MySQL).md",
-    "MySQL 쿼리 실행 구조.md",
-    "핸들러(Handler).md",
-    "실행 엔진.md",
-    "SQL 옵티마이저.md",
-    "전처리기.md",
-    "MySQL 쿼리 파서.md",
-    "토큰 (MySQL).md",
     "MySQL 쿼리 실행 구조.png",
     "MySQL엔진과 스토리지 엔진의 처리 영역.png",
     "Pasted image 20231126002326.png",
-    "Pasted image 20231126002323.png",
-    "MySQL 스레딩 구조 이미지.png",
     "용어정리",
     "프로젝트",
     "쏙쏙 들어오는 함수형 코딩",
