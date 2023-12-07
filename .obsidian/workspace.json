@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "46b463c91237c8ed",
+    "id": "6d366686644208df",
     "type": "split",
     "children": [
       {
-        "id": "66a39e5abf0f37d3",
+        "id": "c93a59f48ac63868",
         "type": "tabs",
         "children": [
           {
-            "id": "ad68e166a7a75421",
+            "id": "5e286823fa996f61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InnoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6212c9c38296dc50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "넥스트 키 락(Next Key Lock).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "454c02eaf51c5686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로컬 메모리 영역.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "083f4f7467aa3bfe",
+    "id": "e1b615c74adaae48",
     "type": "split",
     "children": [
       {
-        "id": "df5ac3087a5a7bbb",
+        "id": "112702f300759907",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d07899d61e50f1",
+            "id": "180165b587c45926",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,13 +43,13 @@
             }
           },
           {
-            "id": "ca0aaacbf5a83abc",
+            "id": "8ee026c9628a0d0d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,15 +58,7 @@
             }
           },
           {
-            "id": "d13ec38e48033489",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc4af10625f0bf07",
+            "id": "e622853b6873c967",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 300
   },
   "right": {
-    "id": "d03b1e37ca9a3b3e",
+    "id": "85bc3d08cb199656",
     "type": "split",
     "children": [
       {
-        "id": "e1105c68a625d62c",
+        "id": "2a378125aee2f979",
         "type": "tabs",
         "children": [
           {
-            "id": "2275de42531b980c",
+            "id": "d9a259472f161bdb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InnoDB.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,30 +97,30 @@
             }
           },
           {
-            "id": "fb46f7e2ab930cd8",
+            "id": "2a985fae03a76978",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InnoDB.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "45229bc9ae2e41cd",
+            "id": "cbb9092a158daefa",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "a15c8d18dd629a24",
+            "id": "1c3c0691adc93a0e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,94 +130,35 @@
             }
           },
           {
-            "id": "4730ad62c69767da",
+            "id": "f8320a942868db2a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "InnoDB.md"
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md"
               }
             }
-          },
-          {
-            "id": "f69eb77eb6186faf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ad68e166a7a75421",
+  "active": "5e286823fa996f61",
   "lastOpenFiles": [
-    "InnoDB 리두 로그.md",
-    "InnoDB.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
-    "자동 증가 락.md",
-    "언두 로그.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
-    "넥스트 키 락(Next Key Lock).md",
-    "갭 락 (GAP LOCK).md",
-    "레코드 락(Record Lock, Record only lock).md",
-    "네임드 락.md",
-    "테이블 락.md",
-    "글로벌 락.md",
-    "InnoDB 버퍼 풀.md",
-    "MVCC(Multi Version Concurrency Control).md",
-    "용어정리/스토리지 엔진.md",
-    "로컬 메모리 영역.md",
-    "트랜잭션.md",
-    "RealMysql8.0/Chapter3.md",
-    "MySQL 쿼리 실행 구조.md",
-    "실행 엔진.md",
-    "플러그인 스토리지 엔진 모델.md",
-    "세션.md",
-    "글로벌 메모리 영역.md",
-    "MySQL서버 혹은 MySQL.md",
-    "백그라운드 스레드.md",
-    "포그라운드 스레드.md",
-    "Pasted image 20231127145834.png",
-    "Pasted image 20231127021054.png",
-    "Pasted image 20231126185828.png",
-    "Pasted image 20231126184600.png",
-    "Pasted image 20231126184552.png",
-    "Pasted image 20231126180342.png",
-    "Pasted image 20231126180132.png",
-    "MySQL 쿼리 실행 구조.png",
-    "MySQL엔진과 스토리지 엔진의 처리 영역.png",
-    "Pasted image 20231126002326.png",
-    "용어정리",
-    "프로젝트",
-    "쏙쏙 들어오는 함수형 코딩",
-    "DDD/용어정리",
-    "DDD/1주차",
-    "DDD",
-    "우테코 프리코스",
-    "학습법",
-    "UnitTesting/용어",
-    "UnitTesting",
-    "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md"
   ]
 }
