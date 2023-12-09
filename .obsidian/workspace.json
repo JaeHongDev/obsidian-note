@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c93a59f48ac63868",
+        "id": "252e1246e6a70583",
         "type": "tabs",
         "children": [
           {
-            "id": "5e286823fa996f61",
+            "id": "2ee9111b46fb0f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,12 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e286823fa996f61",
+  "active": "2ee9111b46fb0f43",
   "lastOpenFiles": [
+    "Pasted image 20231209214232.png",
+    "Pasted image 20231209212258.png",
+    "Pasted image 20231209212237.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "Pasted image 20231208192438.png",
     "Pasted image 20231208164309.png",
     "Hash 인덱스 알고리즘.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "B-Tree 알고리즘.md",
     "보조 키(Secondary Key).md",
     "프라이머리 키 (Primary Key).md"
