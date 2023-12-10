@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3435b749ceaeeef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -159,12 +167,18 @@
   },
   "active": "2ee9111b46fb0f43",
   "lastOpenFiles": [
-    "Pasted image 20231209214232.png",
-    "Pasted image 20231209212258.png",
-    "Pasted image 20231209212237.png",
+    "Pasted image 20231210214003.png",
+    "Pasted image 20231210213739.png",
+    "Pasted image 20231210213129.png",
+    "Pasted image 20231210212214.png",
+    "Pasted image 20231210210254.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "Pasted image 20231208192438.png",
-    "Pasted image 20231208164309.png",
+    "Pasted image 20231210205114.png",
+    "Pasted image 20231210204722.png",
+    "Pasted image 20231210204527.png",
+    "Pasted image 20231210204448.png",
+    "Pasted image 20231210154852.png",
+    "Pasted image 20231210145050.png",
     "Hash 인덱스 알고리즘.md",
     "B-Tree 알고리즘.md",
     "보조 키(Secondary Key).md",
