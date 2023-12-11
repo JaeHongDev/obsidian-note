@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ee9111b46fb0f43",
+            "id": "e3435b749ceaeeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e3435b749ceaeeef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -165,23 +157,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ee9111b46fb0f43",
+  "active": "e3435b749ceaeeef",
   "lastOpenFiles": [
-    "Pasted image 20231210214003.png",
-    "Pasted image 20231210213739.png",
-    "Pasted image 20231210213129.png",
-    "Pasted image 20231210212214.png",
-    "Pasted image 20231210210254.png",
+    "Pasted image 20231211221430.png",
+    "Pasted image 20231211215808.png",
+    "Pasted image 20231211215129.png",
+    "Pasted image 20231211215056.png",
+    "Pasted image 20231211212610.png",
+    "Pasted image 20231211211647.png",
+    "Pasted image 20231211211645.png",
+    "Pasted image 20231211210623.png",
+    "Pasted image 20231211210605.png",
+    "Pasted image 20231211210250.png",
+    "Pasted image 20231211205852.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "Pasted image 20231210205114.png",
-    "Pasted image 20231210204722.png",
-    "Pasted image 20231210204527.png",
-    "Pasted image 20231210204448.png",
-    "Pasted image 20231210154852.png",
-    "Pasted image 20231210145050.png",
+    "프라이머리 키 (Primary Key).md",
     "Hash 인덱스 알고리즘.md",
     "B-Tree 알고리즘.md",
-    "보조 키(Secondary Key).md",
-    "프라이머리 키 (Primary Key).md"
+    "보조 키(Secondary Key).md"
   ]
 }
