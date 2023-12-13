@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -159,22 +160,21 @@
   },
   "active": "e3435b749ceaeeef",
   "lastOpenFiles": [
+    "보조 키(Secondary Key).md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "Pasted image 20231212032701.png",
     "Pasted image 20231212031059.png",
     "Pasted image 20231212031011.png",
     "Pasted image 20231212021447.png",
     "프라이머리 키에 의한 클러스트링.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "Pasted image 20231212015518.png",
     "Pasted image 20231212015319.png",
     "Pasted image 20231212013806.png",
     "Pasted image 20231212013754.png",
     "Pasted image 20231212013459.png",
     "Pasted image 20231212013218.png",
-    "Pasted image 20231212013119.png",
     "프라이머리 키 (Primary Key).md",
     "Hash 인덱스 알고리즘.md",
-    "B-Tree 알고리즘.md",
-    "보조 키(Secondary Key).md"
+    "B-Tree 알고리즘.md"
   ]
 }
