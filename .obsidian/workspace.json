@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+                "file": "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+                "file": "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+                "file": "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md"
+                "file": "RealMysql8.0/RealMySQL8.0 -Chapter9.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "e3435b749ceaeeef",
   "lastOpenFiles": [
-    "보조 키(Secondary Key).md",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
+    "보조 키(Secondary Key).md",
     "Pasted image 20231212032701.png",
     "Pasted image 20231212031059.png",
     "Pasted image 20231212031011.png",
