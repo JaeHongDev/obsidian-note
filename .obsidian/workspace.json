@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f19106ac88385bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -144,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,23 +172,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45f217dbac901c79",
+  "active": "7f19106ac88385bc",
   "lastOpenFiles": [
-    "Pasted image 20231224234044.png",
-    "Pasted image 20231224234043.png",
-    "Pasted image 20231224233914.png",
-    "Pasted image 20231224233310.png",
-    "Pasted image 20231224232722.png",
-    "Pasted image 20231224232624.png",
-    "Pasted image 20231223002401.png",
-    "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
-    "Pasted image 20231219185332.png",
-    "Pasted image 20231219171434.png",
-    "Pasted image 20231219170634.png",
-    "Pasted image 20231219170317.png",
-    "Pasted image 2023121900080.png.md",
+    "Pasted image 20231225230550.png",
+    "Pasted image 20231225230225.png",
+    "Pasted image 20231225230055.png",
+    "Pasted image 20231225230053.png",
+    "Pasted image 20231225223839.png",
+    "Pasted image 20231225220007.png",
+    "Pasted image 20231225214744.png",
+    "Pasted image 20231225212148.png",
+    "Pasted image 20231225211613.png",
+    "Pasted image 20231225195153.png",
+    "Pasted image 20231225190620.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
+    "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
+    "Pasted image 2023121900080.png.md",
     "Untitled.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
