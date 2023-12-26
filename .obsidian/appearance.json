@@ -7,5 +7,6 @@
   "cssTheme": "80s Neon",
   "nativeMenus": true,
   "translucency": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
 }
