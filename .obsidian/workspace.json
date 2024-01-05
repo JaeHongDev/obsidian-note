@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9c5cc6306a920b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개발 책.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md"
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md"
               }
             }
           }
@@ -173,6 +187,13 @@
   },
   "active": "7f19106ac88385bc",
   "lastOpenFiles": [
+    "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+    "개발 책.md",
+    "책 추천",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "Pasted image 20240104202650.png",
     "Pasted image 20231226165437.png",
     "Pasted image 20231226161446.png",
     "Pasted image 20231226155316.png",
@@ -183,11 +204,6 @@
     "Pasted image 20231226142059.png",
     "Pasted image 20231226035656.png",
     "Pasted image 20231226035329.png",
-    "Pasted image 20231225230550.png",
-    "Pasted image 20231225230225.png",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
-    "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
     "Pasted image 2023121900080.png.md",
     "Untitled.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter5.md",

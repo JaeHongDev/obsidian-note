@@ -15,7 +15,7 @@ MySQL 서버의 옵티마이저가 실행 계획을 수립할 때 통계 정보�
 `atched_key_access={on|off}`
 `block_nested_loop={on|off}`
 `condition_fanout_filter={on|off}`
-`derived_condition_pushdown={on|off}`
+`ㅌ_condition_pushdown={on|off}`
 `derived_merge={on|off}`
 `duplicateweedout={on|off}`
 `engine_condition_pushdown={on|off}`
@@ -198,7 +198,6 @@ index_merge 옵티마이저 옵션은 위의 나열된 3개의 최적화 옵션�
 	- 페이지 하나의 크기는 16kb이기 때문에 현재 쿼리에서는 많은 용량을 요구하지 않지만 데이터의 크기 혹은 intersection이 늘어난다면 성능상 문제가 발생할 여지가 있습니다.
 - primary key 만 사용했다면 1만건을 읽어서 9986건은 버리고 겨우 14건만 반환하는 작업이 됐을 것입니다.
 
-> 이부분 조금 더 찾아보기
 - 그런데 ix_firstname 인덱스는 프라이머리 키인 emp_no 컬럼을 자동으로 포함하고 있기 때문에  ix_firstname 인덱스만 사용하는 것이 더 성능이 좋을 것으로 생각할 수 있습니다.
 - 이런 경우는 index_merge_intersection 최적화를 비활성화 하면 됩니다.
 	- 단 전체 설정으로 변경하는 경우 모든 쿼리가 영향을 받을 수 있기 때문에 현재 커넥션 혹은 현재 쿼리에만 영향을 주도록 설정하는 것이 좋습니다
@@ -253,7 +252,7 @@ index_merge_union 간단히 정리
 
 ### 세미 조인 (semijoin)
 - 다른 테이블과 실제 조인을 수행하지는 않고, 단지 다른 테이블에서 조건에 일치하는 레코드가 있는지 없는지만 체크하는 형태의 쿼리를 세미 조인이라고 합니다.
-- MySQL 8.0 이전에는 시미 조인 형태의 쿼리를 최적화 하는 부분이 상당히 취약했습니다.
+- MySQL 8.0 이전에는 세미 조인 형태의 쿼리를 최적화 하는 부분이 상당히 취약했습니다.
 ```mysql
 select * from employees e
  where e.emp_no IN
