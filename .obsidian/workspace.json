@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cbadb26c1905238f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7f19106ac88385bc",
             "type": "leaf",
             "state": {
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+                "file": "Chapter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+                "file": "Chapter1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md"
+                "file": "Chapter1.md"
               }
             }
           }
@@ -172,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,26 +198,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f19106ac88385bc",
+  "active": "cbadb26c1905238f",
   "lastOpenFiles": [
+    "Pasted image 20240108181711.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "Chapter1.md",
+    "밑바닥부터 시작하는 컴퓨팅 시스템",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+    "Pasted image 20240108000845.png",
+    "Pasted image 20240107235434.png",
+    "Pasted image 20240107234721.png",
+    "Pasted image 20240107215104.png",
     "Pasted image 20240106031003.png",
     "Pasted image 20240106001935.png",
     "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
     "개발 책.md",
     "책 추천",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "Pasted image 20240104202650.png",
     "Pasted image 20231226165437.png",
     "Pasted image 20231226161446.png",
     "Pasted image 20231226155316.png",
-    "Pasted image 20231226155312.png",
     "IMG_1839.heic",
-    "Pasted image 20231226144142.png",
-    "Pasted image 20231226143814.png",
-    "Pasted image 20231226142059.png",
-    "Pasted image 20231226035656.png",
     "Pasted image 2023121900080.png.md",
     "Untitled.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
