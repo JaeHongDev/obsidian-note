@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+                "file": "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e389b038f73c1e11",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240115011243.png"
               }
             }
           },
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+                "file": "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+                "file": "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md"
+                "file": "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md"
               }
             }
           }
@@ -188,24 +198,25 @@
   },
   "active": "7f19106ac88385bc",
   "lastOpenFiles": [
-    "Pasted image 20240109164836.png",
-    "Pasted image 20240109121312.png",
-    "Pasted image 20240109121146.png",
-    "Pasted image 20240109013044.png",
-    "Pasted image 20240109012828.png",
-    "Pasted image 20240109012818.png",
-    "Pasted image 20240109011759.png",
+    "Pasted image 20240116110823.png",
+    "Pasted image 20240116001158.png",
+    "Pasted image 20240116000907.png",
+    "Pasted image 20240116000549.png",
+    "Pasted image 20240115235929.png",
+    "Pasted image 20240115235417.png",
+    "Pasted image 20240115234617.png",
+    "Pasted image 20240115213551.png",
+    "Pasted image 20240115213009.png",
+    "Pasted image 20240115212745.png",
+    "Pasted image 20240115211818.png",
+    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
     "Sample.json",
     "Sample.js",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "SE 프로젝트/KAKAO api + security.md",
     "Chapter1.md",
-    "Pasted image 20240108181711.png",
     "밑바닥부터 시작하는 컴퓨팅 시스템",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
-    "Pasted image 20240108000845.png",
-    "Pasted image 20240107235434.png",
-    "Pasted image 20240107234721.png",
     "RealMysql8.0/RealMySQL8.0 -Chapter9.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
     "개발 책.md",
