@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b993c58878025e87",
+        "id": "5c0f887c6094c882",
         "type": "tabs",
         "children": [
           {
-            "id": "b846ad00984eda6f",
+            "id": "c88bb4a167e1c012",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,53 +152,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b846ad00984eda6f",
+  "active": "c88bb4a167e1c012",
   "lastOpenFiles": [
-    "Pasted image 20240120205346.png",
-    "Pasted image 20240120201922.png",
-    "Pasted image 20240120201259.png",
-    "Pasted image 20240120195526.png",
-    "Pasted image 20240120195242.png",
-    "Pasted image 20240120195037.png",
-    "2024-01-20.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
-    "MIT-Lecture/Introduction to algorithm/deep/Section 1.1.md",
-    "단어장",
-    "MIT-Lecture/Introduction to algorithm/Day01.md",
-    "MIT-Lecture/Introduction to algorithm/deep",
-    "MIT-Lecture/Introduction to algorithm/Day02.md",
-    "Pasted image 20240119164748.png",
-    "Pasted image 20240119163650.png",
-    "개발 책.md",
-    "Pasted image 20240115011243.png",
-    "운영체제(반효경)/2. Introduction to Operation Systems.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "gradlew bootRun.md",
-    "Pasted image 20240119012452.png",
-    "spring deepDive",
-    "Pasted image 20240118200942.png",
-    "운영체제(반효경)/1. 강의 소개.md",
-    "운영체제(반효경)",
-    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
-    "MIT-Lecture/Introduction to algorithm",
-    "Untitled",
-    "MIT-Lecture",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
-    "Sample.json",
-    "Sample.js",
-    "SE 프로젝트/KAKAO api + security.md",
-    "Chapter1.md",
-    "밑바닥부터 시작하는 컴퓨팅 시스템",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
-    "Pasted image 2023121900080.png.md",
-    "Untitled.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
-    "RealMysql8.0/RealMySQL 단어 정리.md",
-    "시스템 테이블.md",
-    "스레드 풀(MySQL).md",
-    "세션.md",
-    "플러그인 스토리지 엔진 모델.md"
+    "test/obsidian-note/핸들핸들러.md",
+    "test/obsidian-note/핸들러(Handler).md",
+    "test/obsidian-note/핸들러 API.md",
+    "test/obsidian-note/학습법/어떻게 정리해야하는가?.md",
+    "test/obsidian-note/학습법",
+    "test/obsidian-note/플러그인 스토리지 엔진 모델.md",
+    "test/obsidian-note/프라이머리 키에 의한 클러스트링.md",
+    "test/obsidian-note/프라이머리 키 (Primary Key).md",
+    "test/obsidian-note/포그라운드 스레드.md",
+    "test/obsidian-note/트랜잭션.md",
+    "test/obsidian-note/트랜잭션 지원 메타데이터.md",
+    "test/obsidian-note/토큰 (MySQL).md",
+    "test/obsidian-note/테이블 캐시.md",
+    "test/obsidian-note/테이블 락.md",
+    "test/obsidian-note/키 캐시 (MyISAM).md",
+    "test/obsidian-note/쿼리 캐시 (MySQL).md",
+    "test/obsidian-note/조인 버퍼.md",
+    "test/obsidian-note/정렬 버퍼(Sort Buffer).md",
+    "test/obsidian-note/전처리기.md",
+    "test/obsidian-note/자동화된 장애 복구.md",
+    "test/obsidian-note/자동 증가 락.md",
+    "test/obsidian-note/인플레이스 업그레이드(IN-PLACE-UPGRADE).md",
+    "test/obsidian-note/인프콘/인프런 아키텍처 2023~2024.md",
+    "test/obsidian-note/인프콘/App Script + gpt.md",
+    "test/obsidian-note/인프콘",
+    "test/obsidian-note/운영체제(반효경)/2. Introduction to Operation Systems.md",
+    "test/obsidian-note/운영체제(반효경)/1. 강의 소개.md",
+    "test/obsidian-note/운영체제(반효경)",
+    "test/obsidian-note/용어정리/스토리지 엔진.md",
+    "test/obsidian-note/용어정리",
+    "test/obsidian-note/쏙쏙 들어오는 함수형 코딩",
+    "test/obsidian-note/백준",
+    "test/obsidian-note/데일리 알고리즘/트리",
+    "test/obsidian-note/데일리 알고리즘/그리디",
+    "test/obsidian-note/데일리 알고리즘/투 포인터",
+    "test/obsidian-note/데일리 알고리즘/dp",
+    "test/obsidian-note/Pasted image 20240120205346.png",
+    "test/obsidian-note/Pasted image 20240120201922.png",
+    "test/obsidian-note/Pasted image 20240120201259.png",
+    "test/obsidian-note/Pasted image 20240120195526.png",
+    "test/obsidian-note/Pasted image 20240120195242.png",
+    "test/obsidian-note/Pasted image 20240120195037.png",
+    "test/obsidian-note/Pasted image 20240119164748.png",
+    "test/obsidian-note/Pasted image 20240119163650.png",
+    "test/obsidian-note/Pasted image 20240119012452.png",
+    "test/obsidian-note/Pasted image 20240118200942.png"
   ]
 }

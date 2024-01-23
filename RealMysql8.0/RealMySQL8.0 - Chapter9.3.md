@@ -117,7 +117,8 @@ for(row1 in employees)
 > ⚠ 주의
 > 8.0.20 이후 버전부터는 해시 조인 알고리즘으로 사용 이제 Using Join Buffer는 표시되지 않음
 
-### 인덱스 컨디션 푸시다운 (index_condition_pushdown)
+### 인덱스 컨디션 푸시다운 (index_condition_pushdown) 
+
 (책 예시 참고)
 > select * from employees where last_name = 'Action' and first_name like '%sal';
 ![[Pasted image 20231226161446.png]]
