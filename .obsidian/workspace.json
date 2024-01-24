@@ -11,8 +11,12 @@
             "id": "c88bb4a167e1c012",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md"
+              }
             }
           }
         ],
@@ -154,6 +163,16 @@
   },
   "active": "c88bb4a167e1c012",
   "lastOpenFiles": [
+    "운영체제(반효경)/3. System Structure & Program Execution 1.md",
+    "MIT-Lecture/Introduction to algorithm/deep/Section 1.2.md",
+    "단어장/2024-01-20.md",
+    "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
+    "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
+    "MIT-Lecture/Introduction to algorithm/code/out/production/code",
+    "MIT-Lecture/Introduction to algorithm/code/out/production",
+    "MIT-Lecture/Introduction to algorithm/code/out",
+    "MIT-Lecture/Introduction to algorithm/code/StaticArray.java",
+    "MIT-Lecture/Introduction to algorithm/deep/Section 2.1.md",
     "test/obsidian-note/핸들핸들러.md",
     "test/obsidian-note/핸들러(Handler).md",
     "test/obsidian-note/핸들러 API.md",
@@ -177,19 +196,9 @@
     "test/obsidian-note/자동 증가 락.md",
     "test/obsidian-note/인플레이스 업그레이드(IN-PLACE-UPGRADE).md",
     "test/obsidian-note/인프콘/인프런 아키텍처 2023~2024.md",
-    "test/obsidian-note/인프콘/App Script + gpt.md",
     "test/obsidian-note/인프콘",
-    "test/obsidian-note/운영체제(반효경)/2. Introduction to Operation Systems.md",
-    "test/obsidian-note/운영체제(반효경)/1. 강의 소개.md",
     "test/obsidian-note/운영체제(반효경)",
-    "test/obsidian-note/용어정리/스토리지 엔진.md",
     "test/obsidian-note/용어정리",
-    "test/obsidian-note/쏙쏙 들어오는 함수형 코딩",
-    "test/obsidian-note/백준",
-    "test/obsidian-note/데일리 알고리즘/트리",
-    "test/obsidian-note/데일리 알고리즘/그리디",
-    "test/obsidian-note/데일리 알고리즘/투 포인터",
-    "test/obsidian-note/데일리 알고리즘/dp",
     "test/obsidian-note/Pasted image 20240120205346.png",
     "test/obsidian-note/Pasted image 20240120201922.png",
     "test/obsidian-note/Pasted image 20240120201259.png",
