@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md",
+                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c282b9993f51f7c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "갭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md",
+                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md",
+                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제(반효경)/2. Introduction to Operation Systems.md"
+                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md"
               }
             }
           }
@@ -163,16 +171,30 @@
   },
   "active": "c88bb4a167e1c012",
   "lastOpenFiles": [
+    "Pasted image 20240125180951.png",
+    "Pasted image 20240125180754.png",
+    "Pasted image 20240125180131.png",
+    "레코드 락(Record Lock, Record only lock).md",
+    "넥스트 키 락(Next Key Lock).md",
     "운영체제(반효경)/3. System Structure & Program Execution 1.md",
-    "MIT-Lecture/Introduction to algorithm/deep/Section 1.2.md",
+    "Pasted image 20240125174424.png",
+    "Pasted image 20240125174132.png",
+    "Pasted image 20240125174010.png",
+    "갭 락 (GAP LOCK).md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "RealMysql8.0/RealMySQL 단어 정리.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+    "MIT-Lecture/Introduction to algorithm/deep/Section 3.md",
     "단어장/2024-01-20.md",
+    "운영체제(반효경)/2. Introduction to Operation Systems.md",
+    "MIT-Lecture/Introduction to algorithm/deep/Section 1.2.md",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code",
     "MIT-Lecture/Introduction to algorithm/code/out/production",
     "MIT-Lecture/Introduction to algorithm/code/out",
     "MIT-Lecture/Introduction to algorithm/code/StaticArray.java",
-    "MIT-Lecture/Introduction to algorithm/deep/Section 2.1.md",
     "test/obsidian-note/핸들핸들러.md",
     "test/obsidian-note/핸들러(Handler).md",
     "test/obsidian-note/핸들러 API.md",
@@ -187,15 +209,6 @@
     "test/obsidian-note/토큰 (MySQL).md",
     "test/obsidian-note/테이블 캐시.md",
     "test/obsidian-note/테이블 락.md",
-    "test/obsidian-note/키 캐시 (MyISAM).md",
-    "test/obsidian-note/쿼리 캐시 (MySQL).md",
-    "test/obsidian-note/조인 버퍼.md",
-    "test/obsidian-note/정렬 버퍼(Sort Buffer).md",
-    "test/obsidian-note/전처리기.md",
-    "test/obsidian-note/자동화된 장애 복구.md",
-    "test/obsidian-note/자동 증가 락.md",
-    "test/obsidian-note/인플레이스 업그레이드(IN-PLACE-UPGRADE).md",
-    "test/obsidian-note/인프콘/인프런 아키텍처 2023~2024.md",
     "test/obsidian-note/인프콘",
     "test/obsidian-note/운영체제(반효경)",
     "test/obsidian-note/용어정리",
@@ -203,11 +216,6 @@
     "test/obsidian-note/Pasted image 20240120201922.png",
     "test/obsidian-note/Pasted image 20240120201259.png",
     "test/obsidian-note/Pasted image 20240120195526.png",
-    "test/obsidian-note/Pasted image 20240120195242.png",
-    "test/obsidian-note/Pasted image 20240120195037.png",
-    "test/obsidian-note/Pasted image 20240119164748.png",
-    "test/obsidian-note/Pasted image 20240119163650.png",
-    "test/obsidian-note/Pasted image 20240119012452.png",
-    "test/obsidian-note/Pasted image 20240118200942.png"
+    "test/obsidian-note/Pasted image 20240120195242.png"
   ]
 }
