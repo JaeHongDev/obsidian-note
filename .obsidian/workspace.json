@@ -4,27 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0f887c6094c882",
+        "id": "9f1576375afb89f8",
         "type": "tabs",
         "children": [
           {
-            "id": "c88bb4a167e1c012",
+            "id": "92c4fecc19757418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c282b9993f51f7c0",
+            "id": "7b676f0908df610c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fdbc14b68581bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8c83c9e618ebacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ee4822626ededfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07fd24e6cb1e0ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -94,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제(반효경)/3. System Structure & Program Execution 1.md"
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md"
               }
             }
           }
@@ -169,25 +221,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c88bb4a167e1c012",
+  "active": "92c4fecc19757418",
   "lastOpenFiles": [
-    "Pasted image 20240125180951.png",
-    "Pasted image 20240125180754.png",
-    "Pasted image 20240125180131.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
+    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+    "Pasted image 20240206181251.png",
+    "Pasted image 20240206181203.png",
+    "Pasted image 20240206174025.png",
+    "Pasted image 20240206170105.png",
+    "Pasted image 20240206165745.png",
+    "Pasted image 20240206163930.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "Pasted image 20240206134938.png",
+    "Pasted image 20240206122444.png",
+    "Pasted image 20240206122442.png",
+    "Pasted image 20240206122046.png",
+    "단어장/2024-01-20.md",
+    "운영체제(반효경)/4. System Structure & Program Execution 2.md",
+    "운영체제(반효경)/3. System Structure & Program Execution 1.md",
+    "MIT-Lecture/Introduction to algorithm/script/섹션3.md",
+    "MIT-Lecture/Introduction to algorithm/script/section3.md",
+    "클럭 사이클.md",
+    "MIT-Lecture/Introduction to algorithm/Day01.md",
+    "MIT-Lecture/Introduction to algorithm/script",
+    "운영체제(반효경)/2. Introduction to Operation Systems.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.md",
     "레코드 락(Record Lock, Record only lock).md",
     "넥스트 키 락(Next Key Lock).md",
-    "운영체제(반효경)/3. System Structure & Program Execution 1.md",
-    "Pasted image 20240125174424.png",
-    "Pasted image 20240125174132.png",
-    "Pasted image 20240125174010.png",
     "갭 락 (GAP LOCK).md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "RealMysql8.0/RealMySQL 단어 정리.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
     "MIT-Lecture/Introduction to algorithm/deep/Section 3.md",
-    "단어장/2024-01-20.md",
-    "운영체제(반효경)/2. Introduction to Operation Systems.md",
     "MIT-Lecture/Introduction to algorithm/deep/Section 1.2.md",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
@@ -198,24 +266,8 @@
     "test/obsidian-note/핸들핸들러.md",
     "test/obsidian-note/핸들러(Handler).md",
     "test/obsidian-note/핸들러 API.md",
-    "test/obsidian-note/학습법/어떻게 정리해야하는가?.md",
     "test/obsidian-note/학습법",
-    "test/obsidian-note/플러그인 스토리지 엔진 모델.md",
-    "test/obsidian-note/프라이머리 키에 의한 클러스트링.md",
-    "test/obsidian-note/프라이머리 키 (Primary Key).md",
-    "test/obsidian-note/포그라운드 스레드.md",
-    "test/obsidian-note/트랜잭션.md",
-    "test/obsidian-note/트랜잭션 지원 메타데이터.md",
-    "test/obsidian-note/토큰 (MySQL).md",
-    "test/obsidian-note/테이블 캐시.md",
-    "test/obsidian-note/테이블 락.md",
     "test/obsidian-note/인프콘",
-    "test/obsidian-note/운영체제(반효경)",
-    "test/obsidian-note/용어정리",
-    "test/obsidian-note/Pasted image 20240120205346.png",
-    "test/obsidian-note/Pasted image 20240120201922.png",
-    "test/obsidian-note/Pasted image 20240120201259.png",
-    "test/obsidian-note/Pasted image 20240120195526.png",
-    "test/obsidian-note/Pasted image 20240120195242.png"
+    "test/obsidian-note/운영체제(반효경)"
   ]
 }
