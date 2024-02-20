@@ -4,76 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1576375afb89f8",
+        "id": "facef367a34a4b45",
         "type": "tabs",
         "children": [
           {
-            "id": "92c4fecc19757418",
+            "id": "57d61dfcc9a53f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
+                "file": "RealMysql8.0/퀴즈 정답.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b676f0908df610c",
+            "id": "2500bec490477655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fdbc14b68581bb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8c83c9e618ebacd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee4822626ededfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c07fd24e6cb1e0ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "갭",
+                "query": "read ahe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
+                "file": "RealMysql8.0/퀴즈 정답.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
+                "file": "RealMysql8.0/퀴즈 정답.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md"
+                "file": "RealMysql8.0/퀴즈 정답.md"
               }
             }
           }
@@ -221,24 +173,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92c4fecc19757418",
+  "active": "57d61dfcc9a53f7b",
   "lastOpenFiles": [
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
+    "RealMysql8.0/퀴즈 정답.md",
+    "Pasted image 20240220123221.png",
+    "Pasted image 20240220123207.png",
+    "Pasted image 20240220114414.png",
+    "Pasted image 20240220114216.png",
+    "Pasted image 20240220112924.png",
+    "Pasted image 20240220112752.png",
+    "Pasted image 20240220015949.png",
+    "Pasted image 20240220005449.png",
+    "Pasted image 20240220004637.png",
+    "Pasted image 20240220002738.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
-    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
-    "Pasted image 20240206181251.png",
-    "Pasted image 20240206181203.png",
-    "Pasted image 20240206174025.png",
-    "Pasted image 20240206170105.png",
-    "Pasted image 20240206165745.png",
-    "Pasted image 20240206163930.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "Pasted image 20240206134938.png",
-    "Pasted image 20240206122444.png",
-    "Pasted image 20240206122442.png",
-    "Pasted image 20240206122046.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
+    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
     "단어장/2024-01-20.md",
     "운영체제(반효경)/4. System Structure & Program Execution 2.md",
     "운영체제(반효경)/3. System Structure & Program Execution 1.md",
@@ -264,8 +218,6 @@
     "MIT-Lecture/Introduction to algorithm/code/out",
     "MIT-Lecture/Introduction to algorithm/code/StaticArray.java",
     "test/obsidian-note/핸들핸들러.md",
-    "test/obsidian-note/핸들러(Handler).md",
-    "test/obsidian-note/핸들러 API.md",
     "test/obsidian-note/학습법",
     "test/obsidian-note/인프콘",
     "test/obsidian-note/운영체제(반효경)"
