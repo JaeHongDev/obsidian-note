@@ -4,9 +4,9 @@
   "enabledCssSnippets": [
     "my_style"
   ],
-  "cssTheme": "80s Neon",
+  "cssTheme": "Terminal",
   "nativeMenus": true,
   "translucency": false,
   "baseFontSizeAction": true,
-  "baseFontSize": 13
+  "baseFontSize": 17
 }

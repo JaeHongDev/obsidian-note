@@ -4,18 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "69137280831ec3a0",
+        "id": "13e300b11e44b5f8",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "1af8fb2710990b49",
+            "id": "2fbee8733de06a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d3cb25a34ce70e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42afc85c32e4eefa",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read ahe",
+                "query": "클러스터링",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,15 +159,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md"
+              }
+            }
+          },
+          {
+            "id": "39d64d113d4c6849",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,22 +193,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1af8fb2710990b49",
+  "floating": {
+    "id": "2d99ae2d7df5fa4d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3f91de2111800e70",
+        "type": "window",
+        "children": [
+          {
+            "id": "6fe793b7906a4eb5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f01eacae1711e12b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "리마큐 발표 요약본.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 305,
+        "y": 25,
+        "width": 1310,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2d3cb25a34ce70e1",
   "lastOpenFiles": [
+    "리마큐 발표 요약본.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
+    "Pasted image 20240305173309.png",
+    "Pasted image 20240305173228.png",
+    "Pasted image 20240305173144.png",
+    "Pasted image 20240305173013.png",
+    "Pasted image 20240305173001.png",
+    "Pasted image 20240305172355.png",
+    "Pasted image 20240305163725.png",
+    "Pasted image 20240305163557.png",
+    "Pasted image 20240305163545.png",
+    "Pasted image 20240305162907.png",
+    "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
+    "Untitled 1.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
     "RealMysql8.0/퀴즈 정답.md",
-    "Pasted image 20240220123221.png",
-    "Pasted image 20240220123207.png",
-    "Pasted image 20240220114414.png",
-    "Pasted image 20240220114216.png",
-    "Pasted image 20240220112924.png",
-    "Pasted image 20240220112752.png",
-    "Pasted image 20240220015949.png",
-    "Pasted image 20240220005449.png",
-    "Pasted image 20240220004637.png",
-    "Pasted image 20240220002738.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
     "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
@@ -187,17 +268,12 @@
     "넥스트 키 락(Next Key Lock).md",
     "갭 락 (GAP LOCK).md",
     "RealMysql8.0/RealMySQL 단어 정리.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
-    "MIT-Lecture/Introduction to algorithm/deep/Section 3.md",
-    "MIT-Lecture/Introduction to algorithm/deep/Section 1.2.md",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code",
     "MIT-Lecture/Introduction to algorithm/code/out/production",
     "MIT-Lecture/Introduction to algorithm/code/out",
     "MIT-Lecture/Introduction to algorithm/code/StaticArray.java",
-    "test/obsidian-note/핸들핸들러.md",
     "test/obsidian-note/학습법",
     "test/obsidian-note/인프콘",
     "test/obsidian-note/운영체제(반효경)"
