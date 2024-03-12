@@ -1,12 +1,12 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "my_style"
   ],
-  "cssTheme": "Terminal",
+  "cssTheme": "Notation 2",
   "nativeMenus": true,
   "translucency": false,
   "baseFontSizeAction": true,
-  "baseFontSize": 17
+  "baseFontSize": 13
 }

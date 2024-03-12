@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fbee8733de06a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d3cb25a34ce70e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "42afc85c32e4eefa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "클러스터링",
+                "query": "전문",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
+                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md"
+                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md"
               }
             }
           },
@@ -169,12 +148,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md"
+                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md"
               }
+            }
+          },
+          {
+            "id": "e010727f3e2d4d4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,67 +179,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "2d99ae2d7df5fa4d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3f91de2111800e70",
-        "type": "window",
-        "children": [
-          {
-            "id": "6fe793b7906a4eb5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f01eacae1711e12b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "리마큐 발표 요약본.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 305,
-        "y": 25,
-        "width": 1310,
-        "height": 1055,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2d3cb25a34ce70e1",
   "lastOpenFiles": [
-    "리마큐 발표 요약본.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
-    "Pasted image 20240305173309.png",
-    "Pasted image 20240305173228.png",
-    "Pasted image 20240305173144.png",
-    "Pasted image 20240305173013.png",
-    "Pasted image 20240305173001.png",
-    "Pasted image 20240305172355.png",
-    "Pasted image 20240305163725.png",
-    "Pasted image 20240305163557.png",
-    "Pasted image 20240305163545.png",
-    "Pasted image 20240305162907.png",
-    "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
-    "Untitled 1.md",
+    "Pasted image 20240312161640.png",
+    "Pasted image 20240312161504.png",
+    "Pasted image 20240312161407.png",
+    "Pasted image 20240311184222.png",
+    "Pasted image 20240311184203.png",
+    "Pasted image 20240311183811.png",
+    "Pasted image 20240311183328.png",
+    "Pasted image 20240311183130.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
-    "RealMysql8.0/퀴즈 정답.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
+    "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
-    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
+    "RealMysql8.0/RealMySQL8.0 - chapter12.md",
+    "Pasted image 20240311160404.png",
+    "Pasted image 20240311160259.png",
+    "Pasted image 20240311155644.png",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
+    "리마큐 발표 요약본.md",
+    "Untitled 1.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
+    "RealMysql8.0/퀴즈 정답.md",
+    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
     "단어장/2024-01-20.md",
     "운영체제(반효경)/4. System Structure & Program Execution 2.md",
     "운영체제(반효경)/3. System Structure & Program Execution 1.md",
@@ -262,11 +216,8 @@
     "MIT-Lecture/Introduction to algorithm/Day01.md",
     "MIT-Lecture/Introduction to algorithm/script",
     "운영체제(반효경)/2. Introduction to Operation Systems.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.md",
     "레코드 락(Record Lock, Record only lock).md",
     "넥스트 키 락(Next Key Lock).md",
-    "갭 락 (GAP LOCK).md",
-    "RealMysql8.0/RealMySQL 단어 정리.md",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code",
