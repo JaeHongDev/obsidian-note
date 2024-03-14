@@ -17,3 +17,16 @@ my_style.css에 추가 (Add to my_style.css)
   margin-left: initial !important;
   margin-right: initial !important;
 }
+
+
+
+ul {
+  list-style:none;
+    padding:0;
+    margin:0;
+}
+li {
+	
+}
+
+

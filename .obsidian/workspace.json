@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13e300b11e44b5f8",
+        "id": "32197b65fa2e6798",
         "type": "tabs",
         "children": [
           {
-            "id": "2d3cb25a34ce70e1",
+            "id": "3e0495f5658bf6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md",
+                "file": "spring deepDive/spring security + oauth/OAuth2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 418.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md",
+                "file": "spring deepDive/spring security + oauth/OAuth2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md",
+                "file": "spring deepDive/spring security + oauth/OAuth2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md"
+                "file": "spring deepDive/spring security + oauth/OAuth2.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - chapter12.md"
+                "file": "spring deepDive/spring security + oauth/OAuth2.md"
               }
             }
           },
@@ -170,17 +170,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d3cb25a34ce70e1",
+  "active": "3e0495f5658bf6f4",
   "lastOpenFiles": [
+    "spring deepDive/spring security + oauth/OAuth2.md",
+    "spring deepDive/spring security + oauth/rfc-6749.md",
+    "무제 파일.canvas",
+    "단어장/2024-01-20.md",
+    "Pasted image 20240314124716.png",
+    "spring deepDive/spring security + oauth/Untitled",
+    "SE 프로젝트/KAKAO api + security.md",
+    "spring deepDive/spring security + oauth",
+    "RealMysql8.0/소스코드 설치가 비권장 사항인 이유.md",
+    "RealMysql8.0/RealMySQL8.0 - chapter12.md",
     "Pasted image 20240312161640.png",
     "Pasted image 20240312161504.png",
     "Pasted image 20240312161407.png",
@@ -197,35 +207,25 @@
     "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "RealMysql8.0/RealMySQL8.0 - chapter12.md",
     "Pasted image 20240311160404.png",
-    "Pasted image 20240311160259.png",
-    "Pasted image 20240311155644.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
     "리마큐 발표 요약본.md",
     "Untitled 1.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
     "RealMysql8.0/퀴즈 정답.md",
     "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
-    "단어장/2024-01-20.md",
     "운영체제(반효경)/4. System Structure & Program Execution 2.md",
     "운영체제(반효경)/3. System Structure & Program Execution 1.md",
     "MIT-Lecture/Introduction to algorithm/script/섹션3.md",
     "MIT-Lecture/Introduction to algorithm/script/section3.md",
     "클럭 사이클.md",
-    "MIT-Lecture/Introduction to algorithm/Day01.md",
     "MIT-Lecture/Introduction to algorithm/script",
-    "운영체제(반효경)/2. Introduction to Operation Systems.md",
-    "레코드 락(Record Lock, Record only lock).md",
-    "넥스트 키 락(Next Key Lock).md",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code",
     "MIT-Lecture/Introduction to algorithm/code/out/production",
     "MIT-Lecture/Introduction to algorithm/code/out",
     "MIT-Lecture/Introduction to algorithm/code/StaticArray.java",
-    "test/obsidian-note/학습법",
-    "test/obsidian-note/인프콘",
-    "test/obsidian-note/운영체제(반효경)"
+    "test/obsidian-note/학습법"
   ]
 }

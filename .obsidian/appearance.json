@@ -1,12 +1,13 @@
 {
-  "accentColor": "",
+  "accentColor": "#e02929",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "my_style"
   ],
-  "cssTheme": "Notation 2",
+  "cssTheme": "Shiba Inu",
   "nativeMenus": true,
-  "translucency": false,
+  "translucency": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "textFontFamily": "D2Coding"
 }
