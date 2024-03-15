@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring deepDive/spring security + oauth/OAuth2.md",
+                "file": "코딩테스트 자바/배열.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring deepDive/spring security + oauth/OAuth2.md",
+                "file": "코딩테스트 자바/배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring deepDive/spring security + oauth/OAuth2.md",
+                "file": "코딩테스트 자바/배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring deepDive/spring security + oauth/OAuth2.md"
+                "file": "코딩테스트 자바/배열.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spring deepDive/spring security + oauth/OAuth2.md"
+                "file": "코딩테스트 자바/배열.md"
               }
             }
           },
@@ -181,7 +181,11 @@
   },
   "active": "3e0495f5658bf6f4",
   "lastOpenFiles": [
+    "alt of programming/1장.md",
+    "코딩테스트 자바/배열.md",
+    "코딩테스트 자바",
     "spring deepDive/spring security + oauth/OAuth2.md",
+    "alt of programming",
     "spring deepDive/spring security + oauth/rfc-6749.md",
     "무제 파일.canvas",
     "단어장/2024-01-20.md",
@@ -218,14 +222,11 @@
     "운영체제(반효경)/3. System Structure & Program Execution 1.md",
     "MIT-Lecture/Introduction to algorithm/script/섹션3.md",
     "MIT-Lecture/Introduction to algorithm/script/section3.md",
-    "클럭 사이클.md",
     "MIT-Lecture/Introduction to algorithm/script",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code",
     "MIT-Lecture/Introduction to algorithm/code/out/production",
-    "MIT-Lecture/Introduction to algorithm/code/out",
-    "MIT-Lecture/Introduction to algorithm/code/StaticArray.java",
-    "test/obsidian-note/학습법"
+    "MIT-Lecture/Introduction to algorithm/code/out"
   ]
 }
