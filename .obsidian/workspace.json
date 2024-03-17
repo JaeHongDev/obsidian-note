@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32197b65fa2e6798",
+        "id": "d5fdcbab9a0bc2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "3e0495f5658bf6f4",
+            "id": "48f6133d34ac2961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트 자바/배열.md",
+                "file": "spring deepDive/spring batch/스프링 배치 실행 구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트 자바/배열.md",
+                "file": "spring deepDive/spring batch/스프링 배치 실행 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트 자바/배열.md",
+                "file": "spring deepDive/spring batch/스프링 배치 실행 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트 자바/배열.md"
+                "file": "spring deepDive/spring batch/스프링 배치 실행 구조.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "코딩테스트 자바/배열.md"
+                "file": "spring deepDive/spring batch/스프링 배치 실행 구조.md"
               }
             }
           },
@@ -179,12 +179,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e0495f5658bf6f4",
+  "active": "48f6133d34ac2961",
   "lastOpenFiles": [
-    "alt of programming/1장.md",
-    "코딩테스트 자바/배열.md",
-    "코딩테스트 자바",
+    "Pasted image 20240317233118.png",
     "spring deepDive/spring security + oauth/OAuth2.md",
+    "spring deepDive/spring batch/스프링 배치 실행 구조.md",
+    "spring deepDive/spring batch",
+    "무제 폴더",
+    "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
+    "Pasted image 20240317191628.png",
+    "Pasted image 20240317191350.png",
+    "Pasted image 20240317180201.png",
+    "Pasted image 20240317175748.png",
+    "Pasted image 20240317174427.png",
+    "코딩테스트 자바/배열.md",
+    "alt of programming/1장.md",
+    "코딩테스트 자바",
     "alt of programming",
     "spring deepDive/spring security + oauth/rfc-6749.md",
     "무제 파일.canvas",
@@ -199,10 +209,6 @@
     "Pasted image 20240312161504.png",
     "Pasted image 20240312161407.png",
     "Pasted image 20240311184222.png",
-    "Pasted image 20240311184203.png",
-    "Pasted image 20240311183811.png",
-    "Pasted image 20240311183328.png",
-    "Pasted image 20240311183130.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
     "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.md",
@@ -211,7 +217,6 @@
     "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "Pasted image 20240311160404.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
     "리마큐 발표 요약본.md",
     "Untitled 1.md",
@@ -219,14 +224,9 @@
     "RealMysql8.0/퀴즈 정답.md",
     "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
     "운영체제(반효경)/4. System Structure & Program Execution 2.md",
-    "운영체제(반효경)/3. System Structure & Program Execution 1.md",
-    "MIT-Lecture/Introduction to algorithm/script/섹션3.md",
-    "MIT-Lecture/Introduction to algorithm/script/section3.md",
     "MIT-Lecture/Introduction to algorithm/script",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
-    "MIT-Lecture/Introduction to algorithm/code/out/production/code",
-    "MIT-Lecture/Introduction to algorithm/code/out/production",
-    "MIT-Lecture/Introduction to algorithm/code/out"
+    "MIT-Lecture/Introduction to algorithm/code/out/production/code"
   ]
 }
