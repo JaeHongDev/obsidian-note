@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
+                "file": "os/1장.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
+                "file": "os/1장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
+                "file": "os/1장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter13.md"
+                "file": "os/1장.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/RealMySQL8.0 - Chapter13.md"
+                "file": "os/1장.md"
               }
             }
           },
@@ -181,6 +181,10 @@
   },
   "active": "1c1f02aa61f54785",
   "lastOpenFiles": [
+    "os/2장.md",
+    "os/1장.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
+    "os",
     "Pasted image 20240319165557.png",
     "Pasted image 20240319155833.png",
     "Pasted image 20240319155721.png",
@@ -191,8 +195,6 @@
     "Pasted image 20240319153942.png",
     "Pasted image 20240319131600.png",
     "Pasted image 20240319100348.png",
-    "Pasted image 20240319100344.png",
-    "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
     "코딩테스트 자바/배열.md",
     "spring deepDive/spring batch/스프링 배치 실행 구조.md",
     "spring deepDive/spring security + oauth/OAuth2.md",
@@ -223,10 +225,8 @@
     "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
     "RealMysql8.0/퀴즈 정답.md",
     "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
-    "운영체제(반효경)/4. System Structure & Program Execution 2.md",
     "MIT-Lecture/Introduction to algorithm/script",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
-    "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py",
-    "MIT-Lecture/Introduction to algorithm/code/out/production/code"
+    "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py"
   ]
 }
