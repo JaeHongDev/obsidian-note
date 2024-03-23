@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8dc9812507618e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/RealMySQL 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/1장.md",
+                "file": "RealMysql8.0/RealMySQL 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/1장.md",
+                "file": "RealMysql8.0/RealMySQL 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/1장.md"
+                "file": "RealMysql8.0/RealMySQL 15.md"
               }
             }
           },
@@ -148,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "os/1장.md"
+                "file": "RealMysql8.0/RealMySQL 15.md"
               }
             }
           },
@@ -179,8 +192,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c1f02aa61f54785",
+  "active": "f8dc9812507618e9",
   "lastOpenFiles": [
+    "Pasted image 20240323205358.png",
+    "Pasted image 20240323205335.png",
+    "Pasted image 20240323205308.png",
+    "Pasted image 20240323185352.png",
+    "코딩테스트 자바/문제 10.md",
+    "RealMysql8.0/RealMySQL 15.md",
+    "코딩테스트 자바/문제 09.md",
+    "코딩테스트 자바/문제 08.md",
+    "코딩테스트 자바/스택.md",
+    "코딩테스트 자바/배열.md",
     "os/2장.md",
     "os/1장.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
@@ -192,10 +215,6 @@
     "Pasted image 20240319154210.png",
     "Pasted image 20240319154209.png",
     "Pasted image 20240319153950.png",
-    "Pasted image 20240319153942.png",
-    "Pasted image 20240319131600.png",
-    "Pasted image 20240319100348.png",
-    "코딩테스트 자바/배열.md",
     "spring deepDive/spring batch/스프링 배치 실행 구조.md",
     "spring deepDive/spring security + oauth/OAuth2.md",
     "spring deepDive/spring batch",
@@ -219,12 +238,6 @@
     "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.7.md",
-    "리마큐 발표 요약본.md",
-    "Untitled 1.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.8.md",
-    "RealMysql8.0/퀴즈 정답.md",
-    "RealMysql8.0/RealMySQL 10.2 실행 계획 확인.md",
     "MIT-Lecture/Introduction to algorithm/script",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
     "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py"
