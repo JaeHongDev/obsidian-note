@@ -174,12 +174,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,25 +193,24 @@
   },
   "active": "f8dc9812507618e9",
   "lastOpenFiles": [
-    "Pasted image 20240325192347.png",
-    "Pasted image 20240325192340.png",
-    "Pasted image 20240325191828.png",
-    "Pasted image 20240325191435.png",
-    "Pasted image 20240325191318.png",
-    "Pasted image 20240325191308.png",
-    "Pasted image 20240325123907.png",
-    "Pasted image 20240325122050.png",
-    "Pasted image 20240325122015.png",
-    "Pasted image 20240325121104.png",
-    "Pasted image 20240325121029.png",
-    "코딩테스트 자바/문제 10.md",
     "RealMysql8.0/RealMySQL 15.md",
+    "Pasted image 20240326183356.png",
+    "Pasted image 20240326183147.png",
+    "Pasted image 20240326181736.png",
+    "Pasted image 20240326181515.png",
+    "Pasted image 20240326181500.png",
+    "Pasted image 20240326181424.png",
+    "Pasted image 20240326181403.png",
+    "Pasted image 20240326181333.png",
+    "Pasted image 20240326181309.png",
+    "os/1장.md",
+    "Pasted image 20240326181017.png",
+    "코딩테스트 자바/문제 10.md",
     "코딩테스트 자바/문제 09.md",
     "코딩테스트 자바/문제 08.md",
     "코딩테스트 자바/스택.md",
     "코딩테스트 자바/배열.md",
     "os/2장.md",
-    "os/1장.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
     "os",
     "spring deepDive/spring batch/스프링 배치 실행 구조.md",
