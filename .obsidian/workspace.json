@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b237a634960c2cf",
+        "id": "343ebcb4357a7eff",
         "type": "tabs",
         "children": [
           {
-            "id": "1c1f02aa61f54785",
+            "id": "c6fbf4dc96e5e77f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/1장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8dc9812507618e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/RealMySQL 15.md",
+                "file": "RealMysql8.0/RealMySQL15.4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전문",
+                "query": "tag:#우선순위큐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5,
+    "width": 235.50247192382812,
     "collapsed": true
   },
   "right": {
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/RealMySQL 15.md",
+                "file": "RealMysql8.0/RealMySQL15.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/RealMySQL 15.md",
+                "file": "RealMysql8.0/RealMySQL15.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/RealMySQL 15.md"
+                "file": "RealMysql8.0/RealMySQL15.4.md"
               }
             }
           },
@@ -161,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/RealMySQL 15.md"
+                "file": "RealMysql8.0/RealMySQL15.4.md"
               }
             }
           },
@@ -174,11 +161,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,53 +179,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8dc9812507618e9",
+  "active": "c6fbf4dc96e5e77f",
   "lastOpenFiles": [
+    "Pasted image 20240401170215.png",
+    "Pasted image 20240401170205.png",
+    "Pasted image 20240401170042.png",
+    "Pasted image 20240401155337.png",
+    "Pasted image 20240401155329.png",
+    "Pasted image 20240401155141.png",
+    "RealMysql8.0/RealMySQL15.4.md",
+    "Pasted image 20240401154712.png",
+    "코테 대비 총정리/프로그래머스/더 맵게.md",
+    "코테 대비 총정리/릿코드/원점에서 가장 가까운 k개의 점.md",
+    "코테 대비 총정리/릿코드/k개 정렬 리스트 병합.md",
+    "코테 대비 총정리/우선순위큐.md",
+    "코테 대비 총정리/힙.md",
+    "코테 대비 총정리/다익스트라 알고리즘.md",
+    "코테 대비 총정리/무제 파일.md",
+    "코테 대비 총정리/릿코드/원형 데크 디자인.md",
+    "코테 대비 총정리/데크.md",
+    "Pasted image 20240401140441.png",
+    "코테 대비 총정리/프로그래머스/카드 뭉치.md",
+    "코테 대비 총정리/프로그래머스/기능 개발.md",
+    "코테 대비 총정리/큐.md",
+    "코테 대비 총정리/프로그래머스/표 편집.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
     "RealMysql8.0/RealMySQL 15.md",
-    "Pasted image 20240326183356.png",
-    "Pasted image 20240326183147.png",
-    "Pasted image 20240326181736.png",
-    "Pasted image 20240326181515.png",
-    "Pasted image 20240326181500.png",
-    "Pasted image 20240326181424.png",
-    "Pasted image 20240326181403.png",
-    "Pasted image 20240326181333.png",
-    "Pasted image 20240326181309.png",
-    "os/1장.md",
-    "Pasted image 20240326181017.png",
-    "코딩테스트 자바/문제 10.md",
-    "코딩테스트 자바/문제 09.md",
-    "코딩테스트 자바/문제 08.md",
-    "코딩테스트 자바/스택.md",
-    "코딩테스트 자바/배열.md",
-    "os/2장.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter13.md",
+    "자동 증가 락.md",
+    "코테 대비 총정리/프로그래머스/크레인 인형 뽑기 게임.md",
+    "코테 대비 총정리/프로그래머스/주식 가격.md",
+    "코테 대비 총정리/프로그래머스/짝지어 제거하기.md",
+    "코테 대비 총정리/프로그래머스/괄호 회전하기.md",
+    "코테 대비 총정리/원형 큐.md",
+    "Pasted image 20240331171814.png",
+    "Pasted image 20240331171710.png",
+    "Pasted image 20240331171623.png",
+    "코테 대비 총정리/릿코드/원형 큐 디자인.md",
+    "코테 대비 총정리/릿코드/스택을 이용한 큐 구현.md",
+    "코테 대비 총정리/프로그래머스",
+    "코테 대비 총정리/릿코드",
+    "코테 대비 총정리",
     "os",
-    "spring deepDive/spring batch/스프링 배치 실행 구조.md",
-    "spring deepDive/spring security + oauth/OAuth2.md",
     "spring deepDive/spring batch",
     "무제 폴더",
-    "alt of programming/1장.md",
     "코딩테스트 자바",
     "alt of programming",
-    "spring deepDive/spring security + oauth/rfc-6749.md",
     "무제 파일.canvas",
-    "단어장/2024-01-20.md",
     "spring deepDive/spring security + oauth/Untitled",
-    "SE 프로젝트/KAKAO api + security.md",
-    "spring deepDive/spring security + oauth",
-    "RealMysql8.0/소스코드 설치가 비권장 사항인 이유.md",
-    "RealMysql8.0/RealMySQL8.0 - chapter12.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter8.md",
-    "RealMysql8.0/RealMySQl8.0 - Chapter11.5.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter11.4.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter10.3.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.4 ~ 10.1.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.3.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter9.md",
-    "MIT-Lecture/Introduction to algorithm/script",
-    "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.class",
-    "MIT-Lecture/Introduction to algorithm/code/out/production/code/StaticArray.py"
+    "spring deepDive/spring security + oauth"
   ]
 }
