@@ -1,10 +1,10 @@
 {
   "accentColor": "#e02929",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "my_style"
   ],
-  "cssTheme": "Shiba Inu",
+  "cssTheme": "",
   "nativeMenus": true,
   "translucency": true,
   "baseFontSizeAction": true,

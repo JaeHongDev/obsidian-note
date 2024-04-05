@@ -12,5 +12,9 @@
     "downscalePercent": 100
   },
   "strictLineBreaks": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true
 }

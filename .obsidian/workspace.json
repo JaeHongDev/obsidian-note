@@ -4,42 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "343ebcb4357a7eff",
+        "id": "47f44ff5f72ed7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "c6fbf4dc96e5e77f",
+            "id": "f2bdf244ad1e3400",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "RealMysql8.0/RealMySQL15.4.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240403142508.png",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 4,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#투포인터  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1893188
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4158527826031886,
+                  "close": true
+                }
               }
             }
           },
           {
-            "id": "b91457db68e04cac",
+            "id": "ce5e337da4a5d0a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "코테 대비 총정리/그래프.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0138d89dc5879072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "코테 대비 총정리/해시 함수.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240403142508.png"
               }
             }
           }
@@ -94,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 408.5026054382324
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코테 대비 총정리/그래프.md",
+                "file": "Pasted image 20240403142508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코테 대비 총정리/그래프.md",
+                "file": "Pasted image 20240403142508.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코테 대비 총정리/그래프.md"
+                "file": "Pasted image 20240403142508.png"
               }
             }
           },
@@ -173,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "코테 대비 총정리/그래프.md"
+                "file": "Pasted image 20240403142508.png"
               }
             }
           },
@@ -204,44 +227,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b91457db68e04cac",
+  "active": "ce5e337da4a5d0a0",
   "lastOpenFiles": [
+    "Pasted image 20240403143049.png",
+    "Pasted image 20240403142508.png",
+    "Pasted image 20240402153436.png",
+    "Pasted image 20240401170205.png",
+    "Pasted image 20240403164337.png",
+    "Pasted image 20240403171104.png",
+    "용어정리/스토리지 엔진.md",
+    "백준/2133 타일 채우기.md",
+    "코딩테스트 자바/문제 08.md",
+    "코딩테스트 자바/문제 09.md",
+    "코딩테스트 자바/스택.md",
+    "코딩테스트 자바/배열.md",
+    "코딩테스트 자바/문제 10.md",
+    "데일리 알고리즘/datastructure2/가운데를 말해요.md",
+    "데일리 알고리즘/투 포인터/블로그 - 21921.md",
+    "데일리 알고리즘/투 포인터/배열 합치기 - 11728.md",
+    "데일리 알고리즘/투 포인터/겹치는 건 싫어.md",
+    "2024-04-04.md",
+    "무제 파일 1.canvas",
+    "코테 대비 총정리/배열.md",
+    "코테 대비 총정리/무제 파일.md",
+    "코테 대비 총정리/러너 기법.md",
     "코테 대비 총정리/제약 충족 문제.md",
-    "코테 대비 총정리/백트래킹.md",
-    "Pasted image 20240403173858.png",
-    "코테 대비 총정리/그래프.md",
-    "코테 대비 총정리/너비 우선 탐색(BFS).md",
-    "Pasted image 20240403173513.png",
+    "코테 대비 총정리/자바에서 Stack 클래스를 사용하면 안되는 이유.md",
+    "코테 대비 총정리/추상 자료형.md",
+    "코테 대비 총정리/큐.md",
+    "RealMysql8.0/RealMySQL15.4.md",
+    "Unix domain socket.md",
+    "쏙쏙 들어오는 함수형 코딩/쏙쏙 들어오는 함수형 - 1장.md",
+    "노트/모던 자바 인 액션.md",
     "코테 대비 총정리/깊이 우선 탐색 (DFS).md",
+    "코테 대비 총정리/그래프.md",
+    "Pasted image 20240403173858.png",
+    "Pasted image 20240403173513.png",
     "Pasted image 20240403173244.png",
     "Pasted image 20240403173242.png",
     "Pasted image 20240403173143.png",
-    "Pasted image 20240403172815.png",
-    "코테 대비 총정리/다이나믹 프로그래밍.md",
-    "코테 대비 총정리/NP 복잡도.md",
-    "Pasted image 20240403171104.png",
-    "Pasted image 20240403165610.png",
-    "Pasted image 20240403164337.png",
-    "Pasted image 20240403164305.png",
-    "코테 대비 총정리/프로그래머스/메뉴 리뉴얼.md",
-    "코테 대비 총정리/프로그래머스/베스트 앨범.md",
-    "코테 대비 총정리/프로그래머스/오픈 채팅방.md",
-    "코테 대비 총정리/프로그래머스/할인 행사.md",
-    "코테 대비 총정리/해시테이블, 해시맵.md",
-    "코테 대비 총정리/프로그래머스/완주하지 못한 선수.md",
-    "코테 대비 총정리/릿코드/상위 k빈도 엘리먼트.md",
-    "코테 대비 총정리/릿코드/중복 문자 없는 가장 긴 부분문자열.md",
-    "코테 대비 총정리/릿코드/보석과 돌.md",
-    "코테 대비 총정리/릿코드/해시맵 디자인.md",
-    "코테 대비 총정리/해시 함수.md",
-    "RealMysql8.0/RealMySQL15.4.md",
-    "코테 대비 총정리/프로그래머스/더 맵게.md",
-    "코테 대비 총정리/릿코드/원점에서 가장 가까운 k개의 점.md",
-    "코테 대비 총정리/릿코드/k개 정렬 리스트 병합.md",
-    "코테 대비 총정리/우선순위큐.md",
-    "코테 대비 총정리/힙.md",
-    "코테 대비 총정리/다익스트라 알고리즘.md",
-    "코테 대비 총정리/무제 파일.md",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
     "코테 대비 총정리",
