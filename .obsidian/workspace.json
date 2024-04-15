@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "47f44ff5f72ed7aa",
+        "id": "8007b9af7cbb2477",
         "type": "tabs",
         "children": [
           {
-            "id": "f2bdf244ad1e3400",
+            "id": "6bfc29ce73f2af7f",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240403142508.png",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 4,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#투포인터  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 1893188
-                      }
-                    },
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4158527826031886,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "ce5e337da4a5d0a0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240403142508.png"
+                "file": "RealMysql8.0/바이너리 로그 ROW 이미지.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5026054382324
+    "width": 408.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240403142508.png",
+                "file": "RealMysql8.0/바이너리 로그 ROW 이미지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240403142508.png",
+                "file": "RealMysql8.0/바이너리 로그 ROW 이미지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240403142508.png"
+                "file": "RealMysql8.0/바이너리 로그 ROW 이미지.md"
               }
             }
           },
@@ -196,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Pasted image 20240403142508.png"
+                "file": "RealMysql8.0/바이너리 로그 ROW 이미지.md"
               }
             }
           },
@@ -209,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -218,6 +170,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "marp-slides:Show Slide Preview": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -227,45 +181,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce5e337da4a5d0a0",
+  "active": "6bfc29ce73f2af7f",
   "lastOpenFiles": [
-    "Pasted image 20240403143049.png",
-    "Pasted image 20240403142508.png",
-    "Pasted image 20240402153436.png",
-    "Pasted image 20240401170205.png",
-    "Pasted image 20240403164337.png",
-    "Pasted image 20240403171104.png",
-    "용어정리/스토리지 엔진.md",
-    "백준/2133 타일 채우기.md",
-    "코딩테스트 자바/문제 08.md",
-    "코딩테스트 자바/문제 09.md",
-    "코딩테스트 자바/스택.md",
-    "코딩테스트 자바/배열.md",
-    "코딩테스트 자바/문제 10.md",
-    "데일리 알고리즘/datastructure2/가운데를 말해요.md",
-    "데일리 알고리즘/투 포인터/블로그 - 21921.md",
-    "데일리 알고리즘/투 포인터/배열 합치기 - 11728.md",
-    "데일리 알고리즘/투 포인터/겹치는 건 싫어.md",
-    "2024-04-04.md",
+    "RealMysql8.0/Row 기반 바이너리 로그 포맷.md",
+    "RealMysql8.0/바이너리 로그 ROW 이미지.md",
+    "RealMysql8.0/RealMySQL 16.4.md",
+    "RealMysql8.0/Mixed 포맷.md",
+    "RealMysql8.0/Pasted image 20240415175129.png",
+    "RealMysql8.0/Pasted image 20240415175115.png",
+    "RealMysql8.0/Statement 기반 바이너리 로그 포맷.md",
+    "MySQL 복제 아키텍처.md",
+    "바이너리 로그 파일 위치 기반 복제.md",
+    "GTID의 필요성.md",
+    "RealMySQl 16 발표 목차 및 용어정리.md",
+    "MySQL복제.md",
+    "글로벌 트랜잭션 ID 기반 복제.md",
+    "Non-GTID 기반 복제에서 GTID 기반 복제로 온라인 변경.md",
+    "gtid_mode.md",
+    "enforce_gtid_consistency.md",
+    "데이터 복사하기.md",
+    "바이너리 로그.md",
+    "복제 시작(바이너리 로그 위치 기반).md",
+    "Percona Server.md",
+    "이벤트.md",
+    "릴레이 로그.md",
+    "데이터베이스 운영시 중요한 두 가지.md",
+    "GTID.md",
+    "mysql.gtid_executed 테이블.md",
+    "확장성.md",
+    "Pasted image 20240409140833.png",
+    "Pasted image 20240409140815.png",
+    "Pasted image 20240409134107.png",
+    "GTID기반 복제 제약 사항.md",
+    "글로벌 트랜잭션 아이디 기반 복제에서 트랜잭션 건너뛰기.md",
+    "Pasted image 20240409124237.png",
+    "Pasted image 20240409122708.png",
+    "Pasted image 20240409120342.png",
+    "Pasted image 20240409113618.png",
+    "Pasted image 20240409110654.png",
     "무제 파일 1.canvas",
-    "코테 대비 총정리/배열.md",
-    "코테 대비 총정리/무제 파일.md",
-    "코테 대비 총정리/러너 기법.md",
-    "코테 대비 총정리/제약 충족 문제.md",
-    "코테 대비 총정리/자바에서 Stack 클래스를 사용하면 안되는 이유.md",
-    "코테 대비 총정리/추상 자료형.md",
-    "코테 대비 총정리/큐.md",
-    "RealMysql8.0/RealMySQL15.4.md",
-    "Unix domain socket.md",
-    "쏙쏙 들어오는 함수형 코딩/쏙쏙 들어오는 함수형 - 1장.md",
-    "노트/모던 자바 인 액션.md",
-    "코테 대비 총정리/깊이 우선 탐색 (DFS).md",
-    "코테 대비 총정리/그래프.md",
-    "Pasted image 20240403173858.png",
-    "Pasted image 20240403173513.png",
-    "Pasted image 20240403173244.png",
-    "Pasted image 20240403173242.png",
-    "Pasted image 20240403173143.png",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
     "코테 대비 총정리",
