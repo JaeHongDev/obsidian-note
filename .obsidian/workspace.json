@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "RealMySQl 16 발표 목차 및 용어정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb29f80f49572bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/AFTER_COMMIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6513df55c3ed8586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/멀티 레플리카 복제 구성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c3aafdfaea38716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "RealMysql8.0/바이너리 로그 ROW 이미지.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "926923a0583627a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/Statement 기반 바이너리 로그 포맷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#우선순위큐",
+                "query": "토폴로지",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +114,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 408.5026054382324,
-    "collapsed": true
+    "width": 408.5026054382324
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -181,44 +230,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bfc29ce73f2af7f",
+  "active": "7c3aafdfaea38716",
   "lastOpenFiles": [
-    "RealMysql8.0/Row 기반 바이너리 로그 포맷.md",
-    "RealMysql8.0/바이너리 로그 ROW 이미지.md",
-    "RealMysql8.0/RealMySQL 16.4.md",
-    "RealMysql8.0/Mixed 포맷.md",
-    "RealMysql8.0/Pasted image 20240415175129.png",
-    "RealMysql8.0/Pasted image 20240415175115.png",
     "RealMysql8.0/Statement 기반 바이너리 로그 포맷.md",
-    "MySQL 복제 아키텍처.md",
-    "바이너리 로그 파일 위치 기반 복제.md",
-    "GTID의 필요성.md",
+    "RealMysql8.0/멀티 레플리카 복제 구성.md",
+    "RealMysql8.0/AFTER_COMMIT.md",
     "RealMySQl 16 발표 목차 및 용어정리.md",
-    "MySQL복제.md",
-    "글로벌 트랜잭션 ID 기반 복제.md",
-    "Non-GTID 기반 복제에서 GTID 기반 복제로 온라인 변경.md",
-    "gtid_mode.md",
-    "enforce_gtid_consistency.md",
-    "데이터 복사하기.md",
-    "바이너리 로그.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter16.4.md",
+    "RealMysql8.0/Row 기반 바이너리 로그 포맷.md",
+    "RealMysql8.0/바이너리 로그 트랜잭션 압축.md",
+    "토폴로지.md",
+    "RealMysql8.0/바이너리 로그 ROW 이미지.md",
+    "RealMysql8.0/Mixed 포맷.md",
+    "RealMysql8.0/RealMySQL16.md",
+    "바이너리 로그 파일 위치 기반 복제.md",
     "복제 시작(바이너리 로그 위치 기반).md",
-    "Percona Server.md",
-    "이벤트.md",
-    "릴레이 로그.md",
-    "데이터베이스 운영시 중요한 두 가지.md",
-    "GTID.md",
-    "mysql.gtid_executed 테이블.md",
-    "확장성.md",
-    "Pasted image 20240409140833.png",
-    "Pasted image 20240409140815.png",
-    "Pasted image 20240409134107.png",
-    "GTID기반 복제 제약 사항.md",
-    "글로벌 트랜잭션 아이디 기반 복제에서 트랜잭션 건너뛰기.md",
-    "Pasted image 20240409124237.png",
-    "Pasted image 20240409122708.png",
-    "Pasted image 20240409120342.png",
-    "Pasted image 20240409113618.png",
-    "Pasted image 20240409110654.png",
+    "RealMysql8.0/멀티 소스 복제 구성.md",
+    "RealMysql8.0/듀얼 소스 복제 구성.md",
+    "RealMysql8.0/ACTIVE-ACTIVE.md",
+    "RealMysql8.0/ACTIVE_PASSIVE.md",
+    "RealMysql8.0/체인 복제 구성.md",
+    "RealMysql8.0/싱글 레플리카 복제 구성.md",
+    "RealMysql8.0/반동기 복제.md",
+    "RealMysql8.0/팬텀 리드.md",
+    "RealMysql8.0/AFTER_SYNC.md",
+    "RealMysql8.0/비동기 복제.md",
+    "MySQL 복제 아키텍처.md",
+    "RealMysql8.0/PKE(Primary Key Equivalent).md",
+    "RealMysql8.0/Pasted image 20240416152130.png",
+    "격리 수준.md",
+    "RealMysql8.0/Pasted image 20240416151858.png",
+    "RealMysql8.0/Pasted image 20240416151045.png",
+    "RealMysql8.0/Pasted image 20240416151000.png",
+    "RealMysql8.0/Pasted image 20240416145334.png",
+    "RealMysql8.0/Pasted image 20240416141748.png",
+    "RealMysql8.0/Pasted image 20240416141042.png",
+    "RealMysql8.0/Pasted image 20240416141031.png",
+    "RealMysql8.0/Pasted image 20240416141019.png",
+    "RealMysql8.0/Pasted image 20240416141006.png",
     "무제 파일 1.canvas",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
