@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md",
+                "file": "RealMysql8.0/WriteSet 기반 방식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "716141272979ddce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RealMysql8.0/바이너리 로그 그룹 커밋.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md",
+                "file": "RealMysql8.0/WriteSet 기반 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md",
+                "file": "RealMysql8.0/WriteSet 기반 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md"
+                "file": "RealMysql8.0/WriteSet 기반 방식.md"
               }
             }
           },
@@ -185,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md"
+                "file": "RealMysql8.0/WriteSet 기반 방식.md"
               }
             }
           },
@@ -220,10 +232,29 @@
   },
   "active": "6513df55c3ed8586",
   "lastOpenFiles": [
-    "RealMysql8.0/Pasted image 20240422212220.png",
-    "RealMysql8.0/RealMySQL16.7.md",
+    "RealMysql8.0/LOGICAL CLOCK 기반 멀티 스레드 복제.md",
+    "RealMysql8.0/WriteSet 기반 방식.md",
+    "RealMysql8.0/잠금 기반 방식.md",
+    "RealMysql8.0/Commit-parent 기반 방식.md",
+    "RealMysql8.0/이게 왜 가능한가?.md",
+    "RealMysql8.0/Pasted image 20240423123317.png",
+    "RealMysql8.0/이게 왜 가능한가능한가?.md",
+    "RealMysql8.0/바이너리 로그 그룹 커밋.md",
+    "RealMysql8.0/Commit 단계.md",
+    "RealMysql8.0/Sync 단계.md",
+    "RealMysql8.0/FLUSH 단계.md",
+    "RealMysql8.0/Pasted image 20240423113141.png",
     "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md",
+    "RealMysql8.0/데이터베이스 기반 멀티 스레드 복제.md",
+    "RealMysql8.0/Pasted image 20240423110605.png",
+    "RealMysql8.0/Pasted image 20240423101220.png",
+    "RealMysql8.0/코디네이터 스레드.md",
+    "RealMysql8.0/RealMySQL16.7.md",
     "RealMysql8.0/지연된 복제(Delayed Replication).md",
+    "RealMysql8.0/ICT 타임스탬프 값을 사용했을 때 장점.md",
+    "RealMysql8.0/ICT(immediate_commit_timestamp).md",
+    "RealMysql8.0/OCT(original_commit_timestamp).md",
+    "RealMysql8.0/Pasted image 20240422212220.png",
     "RealMysql8.0/Pasted image 20240422175518.png",
     "RealMysql8.0/멀티 레플리카 복제 구성.md",
     "RealMysql8.0/바이너리 로그 ROW 이미지.md",
@@ -233,29 +264,10 @@
     "RealMysql8.0/RealMySQL8.0 - Chapter16.4.md",
     "RealMysql8.0/Row 기반 바이너리 로그 포맷.md",
     "RealMysql8.0/바이너리 로그 트랜잭션 압축.md",
-    "토폴로지.md",
-    "RealMysql8.0/Mixed 포맷.md",
-    "RealMysql8.0/RealMySQL16.md",
-    "바이너리 로그 파일 위치 기반 복제.md",
-    "복제 시작(바이너리 로그 위치 기반).md",
-    "RealMysql8.0/멀티 소스 복제 구성.md",
-    "RealMysql8.0/듀얼 소스 복제 구성.md",
-    "RealMysql8.0/ACTIVE-ACTIVE.md",
-    "RealMysql8.0/ACTIVE_PASSIVE.md",
-    "RealMysql8.0/체인 복제 구성.md",
-    "RealMysql8.0/싱글 레플리카 복제 구성.md",
-    "RealMysql8.0/반동기 복제.md",
-    "RealMysql8.0/팬텀 리드.md",
-    "RealMysql8.0/AFTER_SYNC.md",
     "RealMysql8.0/Pasted image 20240416152130.png",
     "RealMysql8.0/Pasted image 20240416151858.png",
     "RealMysql8.0/Pasted image 20240416151045.png",
     "RealMysql8.0/Pasted image 20240416151000.png",
-    "RealMysql8.0/Pasted image 20240416145334.png",
-    "RealMysql8.0/Pasted image 20240416141748.png",
-    "RealMysql8.0/Pasted image 20240416141042.png",
-    "RealMysql8.0/Pasted image 20240416141031.png",
-    "RealMysql8.0/Pasted image 20240416141019.png",
     "무제 파일 1.canvas",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
