@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/합의(Consensus).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faac4d3562b45773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RealMysql8.0/그룹 복제 모드.md",
+                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/합의(Consensus).md",
+                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/합의(Consensus).md",
+                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/합의(Consensus).md"
+                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md"
               }
             }
           },
@@ -160,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/합의(Consensus).md"
+                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md"
               }
             }
           },
@@ -195,42 +183,41 @@
   },
   "active": "1acf50fce7fcc1b0",
   "lastOpenFiles": [
-    "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
-    "RealMysql8.0/합의(Consensus).md",
     "RealMysql8.0/그룹 복제(Group Replication).md",
     "RealMysql8.0/그룹 멤버 관리(Group Membership).md",
-    "RealMysql8.0/Pasted image 20240430014640.png",
+    "RealMysql8.0/뷰(View).md",
     "RealMysql8.0/그룹 복제 모드.md",
     "RealMysql8.0/멀티 프라이머리 모드.md",
     "RealMysql8.0/싱글 프라이머리 모드.md",
-    "RealMysql8.0/Pasted image 20240430013338.png",
-    "RealMysql8.0/group_replication_single_primary_mode.md",
     "RealMysql8.0/그룹 복제 아키텍처.md",
-    "RealMysql8.0/Pasted image 20240429212909.png",
-    "RealMysql8.0/Pasted image 20240429210626.png",
-    "RealMysql8.0/Pasted image 20240429210250.png",
-    "RealMysql8.0/Pasted image 20240429205709.png",
     "RealMysql8.0/InnoDB 클러스터 아키텍처.md",
-    "RealMysql8.0/Pasted image 20240429195928.png",
     "RealMysql8.0/RealMySQL8.0 - Chapter17.md",
-    "RealMysql8.0/멀티 레플리카 복제 구성.md",
-    "RealMysql8.0/Statement 기반 바이너리 로그 포맷.md",
-    "RealMysql8.0/바이너리 로그 그룹 커밋.md",
-    "RealMySQl 16 발표 목차 및 용어정리.md",
-    "RealMysql8.0/AFTER_COMMIT.md",
-    "RealMysql8.0/WriteSet 기반 방식.md",
-    "RealMysql8.0/LOGICAL CLOCK 기반 멀티 스레드 복제.md",
-    "RealMysql8.0/잠금 기반 방식.md",
-    "RealMysql8.0/Commit-parent 기반 방식.md",
-    "RealMysql8.0/이게 왜 가능한가?.md",
-    "RealMysql8.0/Pasted image 20240423123317.png",
-    "RealMysql8.0/이게 왜 가능한가능한가?.md",
-    "RealMysql8.0/Commit 단계.md",
-    "RealMysql8.0/Sync 단계.md",
-    "RealMysql8.0/FLUSH 단계.md",
-    "RealMysql8.0/Pasted image 20240423113141.png",
-    "RealMysql8.0/멀티 스레드 복제(Mult-threaded Replication).md",
-    "RealMysql8.0/Pasted image 20240423110605.png",
+    "RealMysql8.0/인증(Certification).md",
+    "RealMysql8.0/합의(Consensus).md",
+    "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
+    "RealMysql8.0/BEFORE 일관성 수준.md",
+    "RealMysql8.0/BEFORE_ON_PRIMARY_FAILOVER 일관성 수준.md",
+    "RealMysql8.0/Pasted image 20240430183506.png",
+    "RealMysql8.0/Pasted image 20240430183459.png",
+    "RealMysql8.0/EVENTUAL 일관성 수준.md",
+    "RealMysql8.0/그룹 복제의 분산 복구.md",
+    "RealMysql8.0/Pasted image 20240430183025.png",
+    "RealMysql8.0/group_replication_single_primary_mode.md",
+    "RealMysql8.0/그룹 복제 제약 사항.md",
+    "RealMysql8.0/그룹 복제의 요구사항.md",
+    "RealMysql8.0/분산 복구 방식.md",
+    "RealMysql8.0/바이너리 로그 복제 방식.md",
+    "RealMysql8.0/QUOTA.md",
+    "RealMysql8.0/워크로드.md",
+    "RealMysql8.0/BEFORE_AND_AFTER 일관성 수준.md",
+    "RealMysql8.0/Pasted image 20240430124645.png",
+    "RealMysql8.0/AFTER 일관성 수준.md",
+    "RealMysql8.0/Pasted image 20240430122914.png",
+    "RealMysql8.0/Pasted image 20240430121600.png",
+    "RealMysql8.0/Pasted image 20240430024046.png",
+    "RealMysql8.0/Pasted image 20240430023918.png",
+    "RealMysql8.0/Pasted image 20240430021643.png",
+    "RealMysql8.0/Pasted image 20240430014640.png",
     "무제 파일 1.canvas",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
