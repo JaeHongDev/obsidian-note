@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
+                "file": "scouter/Chapter1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
+                "file": "scouter/Chapter1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
+                "file": "scouter/Chapter1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md"
+                "file": "scouter/Chapter1.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md"
+                "file": "scouter/Chapter1.md"
               }
             }
           },
@@ -183,6 +183,15 @@
   },
   "active": "1acf50fce7fcc1b0",
   "lastOpenFiles": [
+    "scouter/Pasted image 20240502175553.png",
+    "scouter/Pasted image 20240502175549.png",
+    "scouter/시스템이 죽는다.md",
+    "scouter/Chapter1.md",
+    "scouter/예외가 계속 발생한다.md",
+    "scouter/시스템이 응답이 없다.md",
+    "scouter/시스템이 느리다.md",
+    "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
+    "scouter",
     "RealMysql8.0/그룹 복제(Group Replication).md",
     "RealMysql8.0/그룹 멤버 관리(Group Membership).md",
     "RealMysql8.0/뷰(View).md",
@@ -194,7 +203,6 @@
     "RealMysql8.0/RealMySQL8.0 - Chapter17.md",
     "RealMysql8.0/인증(Certification).md",
     "RealMysql8.0/합의(Consensus).md",
-    "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
     "RealMysql8.0/BEFORE 일관성 수준.md",
     "RealMysql8.0/BEFORE_ON_PRIMARY_FAILOVER 일관성 수준.md",
     "RealMysql8.0/Pasted image 20240430183506.png",
@@ -206,18 +214,12 @@
     "RealMysql8.0/그룹 복제 제약 사항.md",
     "RealMysql8.0/그룹 복제의 요구사항.md",
     "RealMysql8.0/분산 복구 방식.md",
-    "RealMysql8.0/바이너리 로그 복제 방식.md",
-    "RealMysql8.0/QUOTA.md",
-    "RealMysql8.0/워크로드.md",
-    "RealMysql8.0/BEFORE_AND_AFTER 일관성 수준.md",
     "RealMysql8.0/Pasted image 20240430124645.png",
-    "RealMysql8.0/AFTER 일관성 수준.md",
     "RealMysql8.0/Pasted image 20240430122914.png",
     "RealMysql8.0/Pasted image 20240430121600.png",
     "RealMysql8.0/Pasted image 20240430024046.png",
     "RealMysql8.0/Pasted image 20240430023918.png",
     "RealMysql8.0/Pasted image 20240430021643.png",
-    "RealMysql8.0/Pasted image 20240430014640.png",
     "무제 파일 1.canvas",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
@@ -228,7 +230,6 @@
     "코딩테스트 자바",
     "alt of programming",
     "무제 파일.canvas",
-    "spring deepDive/spring security + oauth/Untitled",
-    "spring deepDive/spring security + oauth"
+    "spring deepDive/spring security + oauth/Untitled"
   ]
 }
