@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scouter/Chapter1.md",
+                "file": "노트/모던 자바 인 액션.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5026054382324,
-    "collapsed": true
+    "width": 408.5026054382324
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scouter/Chapter1.md",
+                "file": "노트/모던 자바 인 액션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scouter/Chapter1.md",
+                "file": "노트/모던 자바 인 액션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scouter/Chapter1.md"
+                "file": "노트/모던 자바 인 액션.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "scouter/Chapter1.md"
+                "file": "노트/모던 자바 인 액션.md"
               }
             }
           },
@@ -183,10 +182,12 @@
   },
   "active": "1acf50fce7fcc1b0",
   "lastOpenFiles": [
+    "단어장/2024-01-20.md",
+    "노트/모던 자바 인 액션.md",
+    "scouter/Chapter1.md",
     "scouter/Pasted image 20240502175553.png",
     "scouter/Pasted image 20240502175549.png",
     "scouter/시스템이 죽는다.md",
-    "scouter/Chapter1.md",
     "scouter/예외가 계속 발생한다.md",
     "scouter/시스템이 응답이 없다.md",
     "scouter/시스템이 느리다.md",
@@ -213,13 +214,11 @@
     "RealMysql8.0/group_replication_single_primary_mode.md",
     "RealMysql8.0/그룹 복제 제약 사항.md",
     "RealMysql8.0/그룹 복제의 요구사항.md",
-    "RealMysql8.0/분산 복구 방식.md",
     "RealMysql8.0/Pasted image 20240430124645.png",
     "RealMysql8.0/Pasted image 20240430122914.png",
     "RealMysql8.0/Pasted image 20240430121600.png",
     "RealMysql8.0/Pasted image 20240430024046.png",
     "RealMysql8.0/Pasted image 20240430023918.png",
-    "RealMysql8.0/Pasted image 20240430021643.png",
     "무제 파일 1.canvas",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
