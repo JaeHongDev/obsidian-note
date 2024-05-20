@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41839b770ade9c0e",
+        "id": "2bd5b15d6a251bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "1acf50fce7fcc1b0",
+            "id": "e4fb8c40a5f65c54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트/모던 자바 인 액션.md",
+                "file": "JPA/5장.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5026054382324
+    "width": 408.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "85bc3d08cb199656",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "노트/모던 자바 인 액션.md",
+                "file": "JPA/5장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "노트/모던 자바 인 액션.md",
+                "file": "JPA/5장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "노트/모던 자바 인 액션.md"
+                "file": "JPA/5장.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "노트/모던 자바 인 액션.md"
+                "file": "JPA/5장.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,48 +178,53 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1acf50fce7fcc1b0",
+  "active": "e4fb8c40a5f65c54",
   "lastOpenFiles": [
-    "단어장/2024-01-20.md",
-    "노트/모던 자바 인 액션.md",
-    "scouter/Chapter1.md",
-    "scouter/Pasted image 20240502175553.png",
-    "scouter/Pasted image 20240502175549.png",
-    "scouter/시스템이 죽는다.md",
-    "scouter/예외가 계속 발생한다.md",
-    "scouter/시스템이 응답이 없다.md",
-    "scouter/시스템이 느리다.md",
-    "RealMysql8.0/그룹 복제에서의 트랜잭션 처리.md",
+    "JPA/Pasted image 20240520212453.png",
+    "JPA/Pasted image 20240520195237.png",
+    "JPA/5장.md",
+    "JPA/Pasted image 20240520194914.png",
+    "JPA/Pasted image 20240520194817.png",
+    "JPA/Pasted image 20240520194728.png",
+    "JPA/Pasted image 20240520194632.png",
+    "JPA/연관관계의 주인.md",
+    "JPA/양방향 연관관계.md",
+    "JPA/단방향 연관관계.md",
+    "JPA/Pasted image 20240520153536.png",
+    "JPA/트랜잭션을 지원하는 쓰기 지연.md",
+    "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md",
+    "Excalidraw/Drawing 2024-05-14 18.06.19.excalidraw.md",
+    "JPA/발표/엔티티 매니저.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
+    "JPA/플러시.md",
+    "JPA/em.flush 직접 호출.md",
+    "JPA/영속성 컨텍스트.md",
+    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
+    "JPA/발표/1주차 발표.md",
+    "JPA/엔티티의 생명주기.md",
+    "JPA/1차 캐시.md",
+    "JPA/발표/엔티티 매니저 팩토리.md",
+    "JPA/EntityManagerFactory를 만드는건 왜 비용이 큰 작업인가요?.md",
+    "Excalidraw",
+    "무제 파일 2.canvas",
+    "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가건가요?.md",
+    "JPA/ORM.md",
+    "JPA/3장.md",
+    "JPA/2장.md",
+    "JPA/엔티티 매니저 생성 과정.md",
+    "JPA/삭제.md",
+    "JPA/1장.md",
+    "JPA/Pasted image 20240514125547.png",
+    "JPA/발표",
+    "JPA/Pasted image 20240514021548.png",
+    "JPA/Pasted image 20240514020404.png",
+    "JPA/Pasted image 20240514015643.png",
+    "JPA",
     "scouter",
-    "RealMysql8.0/그룹 복제(Group Replication).md",
-    "RealMysql8.0/그룹 멤버 관리(Group Membership).md",
-    "RealMysql8.0/뷰(View).md",
-    "RealMysql8.0/그룹 복제 모드.md",
-    "RealMysql8.0/멀티 프라이머리 모드.md",
-    "RealMysql8.0/싱글 프라이머리 모드.md",
-    "RealMysql8.0/그룹 복제 아키텍처.md",
-    "RealMysql8.0/InnoDB 클러스터 아키텍처.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter17.md",
-    "RealMysql8.0/인증(Certification).md",
-    "RealMysql8.0/합의(Consensus).md",
-    "RealMysql8.0/BEFORE 일관성 수준.md",
-    "RealMysql8.0/BEFORE_ON_PRIMARY_FAILOVER 일관성 수준.md",
-    "RealMysql8.0/Pasted image 20240430183506.png",
-    "RealMysql8.0/Pasted image 20240430183459.png",
-    "RealMysql8.0/EVENTUAL 일관성 수준.md",
-    "RealMysql8.0/그룹 복제의 분산 복구.md",
-    "RealMysql8.0/Pasted image 20240430183025.png",
-    "RealMysql8.0/group_replication_single_primary_mode.md",
-    "RealMysql8.0/그룹 복제 제약 사항.md",
-    "RealMysql8.0/그룹 복제의 요구사항.md",
-    "RealMysql8.0/Pasted image 20240430124645.png",
-    "RealMysql8.0/Pasted image 20240430122914.png",
-    "RealMysql8.0/Pasted image 20240430121600.png",
-    "RealMysql8.0/Pasted image 20240430024046.png",
-    "RealMysql8.0/Pasted image 20240430023918.png",
     "무제 파일 1.canvas",
     "코테 대비 총정리/프로그래머스",
     "코테 대비 총정리/릿코드",
@@ -226,9 +232,6 @@
     "os",
     "spring deepDive/spring batch",
     "무제 폴더",
-    "코딩테스트 자바",
-    "alt of programming",
-    "무제 파일.canvas",
-    "spring deepDive/spring security + oauth/Untitled"
+    "무제 파일.canvas"
   ]
 }
