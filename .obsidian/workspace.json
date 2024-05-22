@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/5장.md",
+                "file": "JPA/발표/엔티티 매니저 팩토리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3309171baa782987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0300a067f6133265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/단방향 연관관계.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/5장.md",
+                "file": "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/5장.md",
+                "file": "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/5장.md"
+                "file": "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md"
               }
             }
           },
@@ -148,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "JPA/5장.md"
+                "file": "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md"
               }
             }
           },
@@ -182,47 +207,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4fb8c40a5f65c54",
+  "active": "3309171baa782987",
   "lastOpenFiles": [
-    "JPA/Pasted image 20240520212453.png",
-    "JPA/Pasted image 20240520195237.png",
+    "JPA/발표/엔티티 매니저 팩토리.md",
+    "JPA/발표/엔티티 매니저.md",
+    "JPA/발표/1주차 발표.md",
+    "JPA/3장.md",
     "JPA/5장.md",
-    "JPA/Pasted image 20240520194914.png",
-    "JPA/Pasted image 20240520194817.png",
-    "JPA/Pasted image 20240520194728.png",
-    "JPA/Pasted image 20240520194632.png",
+    "JPA/단방향 연관관계.md",
+    "JPA/Pasted image 20240521180820.png",
     "JPA/연관관계의 주인.md",
     "JPA/양방향 연관관계.md",
-    "JPA/단방향 연관관계.md",
-    "JPA/Pasted image 20240520153536.png",
+    "JPA/Pasted image 20240521160618.png",
+    "JPA/Pasted image 20240521160343.png",
+    "JPA/Pasted image 20240521155234.png",
+    "JPA/Pasted image 20240521011239.png",
+    "JPA/Pasted image 20240521010258.png",
+    "JPA/Pasted image 20240521005307.png",
+    "JPA/Pasted image 20240521005035.png",
+    "JPA/Pasted image 20240521004329.png",
+    "JPA/Pasted image 20240521004224.png",
     "JPA/트랜잭션을 지원하는 쓰기 지연.md",
     "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md",
     "Excalidraw/Drawing 2024-05-14 18.06.19.excalidraw.md",
-    "JPA/발표/엔티티 매니저.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
     "JPA/플러시.md",
     "JPA/em.flush 직접 호출.md",
     "JPA/영속성 컨텍스트.md",
     "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
-    "JPA/발표/1주차 발표.md",
     "JPA/엔티티의 생명주기.md",
     "JPA/1차 캐시.md",
-    "JPA/발표/엔티티 매니저 팩토리.md",
     "JPA/EntityManagerFactory를 만드는건 왜 비용이 큰 작업인가요?.md",
     "Excalidraw",
     "무제 파일 2.canvas",
     "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가건가요?.md",
     "JPA/ORM.md",
-    "JPA/3장.md",
     "JPA/2장.md",
     "JPA/엔티티 매니저 생성 과정.md",
     "JPA/삭제.md",
     "JPA/1장.md",
-    "JPA/Pasted image 20240514125547.png",
     "JPA/발표",
-    "JPA/Pasted image 20240514021548.png",
-    "JPA/Pasted image 20240514020404.png",
-    "JPA/Pasted image 20240514015643.png",
     "JPA",
     "scouter",
     "무제 파일 1.canvas",
