@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "면접 대비 노트/Java의 equals() hashcode()에 대해서 설명해주세요.md",
+                "file": "면접 대비 노트/JPA의 장점.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "면접 대비 노트/Java의 equals() hashcode()에 대해서 설명해주세요.md",
+                "file": "면접 대비 노트/JPA의 장점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "면접 대비 노트/Java의 equals() hashcode()에 대해서 설명해주세요.md",
+                "file": "면접 대비 노트/JPA의 장점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "면접 대비 노트/Java의 equals() hashcode()에 대해서 설명해주세요.md"
+                "file": "면접 대비 노트/JPA의 장점.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "면접 대비 노트/Java의 equals() hashcode()에 대해서 설명해주세요.md"
+                "file": "면접 대비 노트/JPA의 장점.md"
               }
             }
           },
@@ -183,25 +183,32 @@
   },
   "active": "3309171baa782987",
   "lastOpenFiles": [
+    "면접 대비 노트/JPA의 기술적인 측면에서의 장점.md",
     "면접 대비 노트/면접 질문 수집 5월 26일.md",
+    "정리 노트/1차 멘토링 정리.md",
+    "JPA/발표/엔티티 매니저.md",
+    "JPA/발표/1주차 발표.md",
+    "JPA/5장.md",
+    "JPA/3장.md",
+    "JPA/엔티티 매니저 생성 과정.md",
+    "JPA/2장.md",
+    "JPA/1장.md",
+    "JPA/1차 캐시.md",
+    "JPA/8장.md",
+    "JPA/Pasted image 20240603212858.png",
+    "면접 대비 노트/면접 질문 수집 6월 1일.md",
     "면접 대비 노트/Java의 equals() hashcode()에 대해서 설명해주세요.md",
     "면접 대비 노트/flab/AI멘토링 1일차.md",
-    "정리 노트/1차 멘토링 정리.md",
     "면접 대비 노트/JPA의 장점.md",
-    "면접 대비 노트/JPA의 기술적인 측면에서의 장점.md",
     "면접 대비 노트/flab",
     "JPA/단방향 연관관계.md",
     "JPA/발표/엔티티 매니저 팩토리.md",
     "면접 대비 노트",
-    "JPA/5장.md",
     "정리 노트",
     "JPA/EntityManagerFactory를 만드는건 왜 비용이 큰 작업인가요?.md",
     "JPA/JPQL 쿼리 실행 시 플러시 자동 호출.md",
     "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가요?.md",
     "JPA/JPA는 어떻게 데이터베이스에 맞는 쿼리를 만들어내는 건가건가요?.md",
-    "JPA/발표/엔티티 매니저.md",
-    "JPA/발표/1주차 발표.md",
-    "JPA/3장.md",
     "JPA/Pasted image 20240521180820.png",
     "JPA/연관관계의 주인.md",
     "JPA/양방향 연관관계.md",
@@ -213,15 +220,8 @@
     "JPA/Pasted image 20240521005307.png",
     "JPA/Pasted image 20240521005035.png",
     "JPA/Pasted image 20240521004329.png",
-    "JPA/Pasted image 20240521004224.png",
     "JPA/트랜잭션을 지원하는 쓰기 지연.md",
     "Excalidraw/Drawing 2024-05-14 18.06.19.excalidraw.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter5.md",
-    "JPA/플러시.md",
-    "JPA/em.flush 직접 호출.md",
-    "JPA/영속성 컨텍스트.md",
-    "RealMysql8.0/RealMySQL8.0 - Chapter4.md",
-    "JPA/엔티티의 생명주기.md",
     "Excalidraw",
     "무제 파일 2.canvas",
     "JPA/발표",
